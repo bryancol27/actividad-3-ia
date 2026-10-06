@@ -1,0 +1,1501 @@
+hora_del_dia,dia_semana,es_hora_pico,clima,estacion_origen,afluencia_pasajeros,frecuencia_buses_min,incidente_vial,nivel_retraso
+11,Viernes,0,Despejado,Portal Norte,1215,6,0,Retraso_Moderado
+19,Sábado,0,Lluvia fuerte,Portal Norte,1077,10,1,Retraso_Critico
+15,Lunes,0,Despejado,Banderas,1145,6,0,Normal
+12,Viernes,0,Despejado,Ricaurte,1061,6,0,Normal
+11,Domingo,0,Despejado,Banderas,811,6,0,Normal
+23,Lunes,0,Despejado,Portal Américas,1196,12,0,Normal
+15,Sábado,0,Lluvia ligera,Ricaurte,832,12,0,Normal
+15,Jueves,0,Lluvia ligera,Portal Américas,1040,6,0,Normal
+8,Jueves,1,Despejado,Calle 100,2537,6,1,Retraso_Critico
+12,Jueves,0,Lluvia ligera,Portal Américas,1079,8,0,Retraso_Moderado
+7,Martes,1,Despejado,Portal Américas,2719,4,0,Retraso_Moderado
+6,Domingo,0,Lluvia fuerte,Calle 100,1228,10,0,Retraso_Moderado
+16,Domingo,0,Lluvia fuerte,Calle 100,1310,6,0,Retraso_Moderado
+10,Jueves,0,Despejado,Portal El Dorado,699,12,0,Normal
+6,Viernes,1,Lluvia ligera,Banderas,2714,6,0,Retraso_Critico
+5,Jueves,0,Lluvia ligera,Calle 100,960,15,0,Retraso_Moderado
+16,Jueves,0,Despejado,Calle 100,1168,6,0,Normal
+16,Viernes,0,Despejado,Calle 100,1049,10,0,Normal
+21,Jueves,0,Despejado,Ricaurte,1086,15,0,Normal
+14,Jueves,0,Lluvia ligera,Calle 100,1229,6,0,Normal
+20,Viernes,0,Lluvia fuerte,Héroes,872,8,0,Retraso_Moderado
+19,Jueves,1,Lluvia ligera,Calle 100,2026,3,0,Retraso_Moderado
+19,Lunes,1,Lluvia ligera,Portal Américas,2863,3,1,Retraso_Critico
+23,Martes,0,Lluvia ligera,Ricaurte,1357,8,0,Normal
+16,Miércoles,0,Lluvia ligera,Portal El Dorado,774,6,0,Normal
+7,Viernes,1,Lluvia ligera,Portal Américas,3460,3,0,Retraso_Moderado
+9,Jueves,0,Despejado,Portal Américas,1171,8,0,Normal
+23,Viernes,0,Despejado,Héroes,1012,10,0,Normal
+11,Miércoles,0,Lluvia ligera,Portal Norte,1409,8,0,Retraso_Moderado
+13,Jueves,0,Despejado,Banderas,811,8,0,Normal
+11,Miércoles,0,Lluvia ligera,Portal Norte,1377,10,0,Normal
+22,Miércoles,0,Despejado,Portal El Dorado,1589,10,0,Normal
+8,Viernes,1,Despejado,Ricaurte,2109,3,0,Normal
+18,Sábado,0,Lluvia ligera,Calle 100,1603,8,0,Normal
+22,Miércoles,0,Despejado,Banderas,1020,8,0,Normal
+13,Lunes,0,Despejado,Portal Norte,967,6,0,Normal
+6,Martes,1,Despejado,Calle 100,2264,3,0,Retraso_Moderado
+19,Lunes,1,Lluvia fuerte,Ricaurte,2845,4,1,Retraso_Critico
+11,Viernes,0,Despejado,Calle 100,1051,10,0,Normal
+16,Miércoles,0,Lluvia fuerte,Ricaurte,881,10,0,Normal
+12,Jueves,0,Despejado,Portal Norte,1161,8,0,Normal
+19,Jueves,1,Lluvia fuerte,Portal Norte,2350,6,0,Retraso_Critico
+7,Lunes,1,Lluvia fuerte,Portal Norte,3045,4,0,Retraso_Critico
+18,Miércoles,1,Despejado,Calle 100,2452,4,0,Retraso_Moderado
+21,Martes,0,Despejado,Portal Américas,1261,15,0,Normal
+8,Miércoles,1,Despejado,Portal El Dorado,3014,3,0,Retraso_Moderado
+22,Martes,0,Lluvia ligera,Banderas,1200,10,0,Normal
+12,Sábado,0,Despejado,Banderas,1418,12,0,Normal
+8,Martes,1,Despejado,Calle 100,3207,4,0,Retraso_Critico
+6,Domingo,0,Despejado,Portal Américas,1230,6,0,Normal
+10,Miércoles,0,Despejado,Calle 100,1568,10,0,Normal
+14,Sábado,0,Despejado,Calle 100,1235,6,0,Normal
+8,Jueves,1,Lluvia ligera,Portal Américas,2548,6,0,Retraso_Critico
+22,Viernes,0,Lluvia fuerte,Portal Norte,1450,10,1,Retraso_Critico
+16,Viernes,0,Despejado,Calle 100,1103,12,0,Normal
+6,Jueves,1,Despejado,Héroes,2737,4,0,Retraso_Moderado
+14,Jueves,0,Despejado,Portal Américas,1091,10,0,Normal
+8,Jueves,1,Lluvia ligera,Portal Américas,2867,3,1,Retraso_Critico
+18,Jueves,1,Lluvia fuerte,Portal Norte,2603,4,0,Retraso_Critico
+20,Lunes,0,Lluvia ligera,Calle 100,1535,12,0,Retraso_Moderado
+19,Miércoles,1,Lluvia fuerte,Banderas,2203,6,1,Retraso_Critico
+12,Jueves,0,Despejado,Portal Norte,1595,6,0,Normal
+18,Jueves,1,Lluvia ligera,Portal Américas,3534,6,0,Retraso_Critico
+12,Viernes,0,Lluvia ligera,Portal Norte,1351,8,0,Retraso_Moderado
+20,Viernes,0,Despejado,Portal Américas,1425,6,0,Normal
+17,Domingo,0,Lluvia fuerte,Portal Norte,854,15,0,Retraso_Moderado
+22,Martes,0,Despejado,Portal El Dorado,648,15,0,Normal
+19,Miércoles,1,Lluvia ligera,Banderas,2552,3,0,Retraso_Critico
+17,Miércoles,1,Despejado,Portal El Dorado,2603,4,0,Retraso_Moderado
+13,Miércoles,0,Despejado,Calle 100,1123,8,0,Normal
+19,Sábado,0,Lluvia ligera,Banderas,1406,12,0,Normal
+17,Martes,1,Despejado,Ricaurte,2646,4,0,Retraso_Moderado
+5,Viernes,0,Despejado,Portal Américas,832,6,0,Normal
+11,Miércoles,0,Despejado,Ricaurte,731,6,0,Normal
+13,Jueves,0,Lluvia ligera,Portal Norte,1229,8,0,Normal
+5,Jueves,0,Despejado,Portal Norte,1328,15,0,Normal
+16,Miércoles,0,Despejado,Portal El Dorado,653,8,0,Normal
+12,Jueves,0,Lluvia fuerte,Calle 100,1342,8,0,Retraso_Moderado
+15,Miércoles,0,Lluvia ligera,Ricaurte,1108,6,0,Normal
+23,Lunes,0,Despejado,Portal Américas,1039,8,1,Retraso_Moderado
+21,Miércoles,0,Lluvia ligera,Banderas,1392,10,1,Retraso_Critico
+12,Lunes,0,Lluvia ligera,Héroes,766,8,0,Normal
+7,Miércoles,1,Lluvia fuerte,Banderas,2459,3,0,Retraso_Critico
+7,Jueves,1,Despejado,Calle 100,3173,4,0,Normal
+5,Jueves,0,Despejado,Calle 100,1505,6,0,Normal
+9,Viernes,0,Despejado,Portal Américas,1205,10,0,Normal
+14,Lunes,0,Despejado,Portal Norte,1080,8,0,Normal
+11,Viernes,0,Despejado,Portal Norte,831,8,0,Normal
+13,Martes,0,Despejado,Ricaurte,802,10,0,Normal
+11,Miércoles,0,Lluvia ligera,Portal Américas,1795,12,0,Normal
+13,Sábado,0,Despejado,Héroes,363,10,0,Normal
+12,Lunes,0,Despejado,Calle 100,1042,6,0,Normal
+16,Jueves,0,Lluvia ligera,Calle 100,1648,8,0,Normal
+6,Jueves,1,Despejado,Portal Norte,2227,4,0,Retraso_Moderado
+5,Miércoles,0,Despejado,Banderas,757,10,0,Normal
+20,Martes,0,Lluvia ligera,Portal El Dorado,950,10,0,Normal
+9,Martes,0,Despejado,Banderas,1015,6,1,Retraso_Moderado
+7,Sábado,0,Lluvia ligera,Banderas,933,10,1,Retraso_Moderado
+16,Miércoles,0,Lluvia ligera,Portal Américas,1646,10,0,Normal
+12,Miércoles,0,Despejado,Portal Américas,1284,8,0,Normal
+7,Miércoles,1,Lluvia ligera,Calle 100,2772,5,0,Retraso_Critico
+5,Viernes,0,Despejado,Ricaurte,945,8,0,Normal
+7,Lunes,1,Despejado,Portal Américas,2871,3,0,Retraso_Moderado
+9,Miércoles,0,Despejado,Portal Américas,901,15,0,Retraso_Moderado
+19,Jueves,1,Despejado,Héroes,2659,4,0,Retraso_Critico
+18,Domingo,0,Lluvia fuerte,Héroes,837,8,1,Retraso_Critico
+7,Martes,1,Despejado,Portal El Dorado,2418,5,1,Retraso_Critico
+5,Miércoles,0,Despejado,Portal El Dorado,990,15,0,Normal
+9,Miércoles,0,Despejado,Ricaurte,873,15,0,Retraso_Moderado
+18,Jueves,1,Despejado,Portal Norte,2556,5,0,Retraso_Moderado
+11,Miércoles,0,Despejado,Portal Norte,837,6,0,Normal
+13,Jueves,0,Despejado,Ricaurte,777,15,0,Normal
+19,Viernes,1,Lluvia ligera,Portal El Dorado,2617,3,0,Retraso_Moderado
+19,Viernes,1,Despejado,Portal Norte,2777,3,0,Retraso_Moderado
+14,Miércoles,0,Despejado,Héroes,1123,12,0,Normal
+17,Sábado,0,Despejado,Portal Norte,1317,8,0,Normal
+23,Jueves,0,Despejado,Calle 100,1321,6,0,Normal
+11,Jueves,0,Lluvia fuerte,Ricaurte,809,12,0,Retraso_Moderado
+21,Lunes,0,Despejado,Portal Norte,1280,10,0,Normal
+8,Domingo,0,Despejado,Portal Norte,990,8,0,Normal
+9,Lunes,0,Despejado,Calle 100,1368,8,0,Normal
+11,Martes,0,Lluvia ligera,Portal El Dorado,774,10,0,Normal
+17,Lunes,1,Lluvia ligera,Portal Américas,3283,5,0,Retraso_Critico
+19,Viernes,1,Despejado,Ricaurte,2940,3,0,Normal
+15,Martes,0,Lluvia ligera,Ricaurte,421,10,0,Normal
+8,Martes,1,Lluvia ligera,Portal Norte,2544,3,0,Retraso_Moderado
+17,Lunes,1,Lluvia fuerte,Héroes,2280,4,0,Retraso_Critico
+11,Lunes,0,Lluvia ligera,Portal Norte,1284,12,0,Retraso_Moderado
+23,Jueves,0,Despejado,Héroes,494,12,0,Normal
+6,Viernes,1,Despejado,Ricaurte,2517,3,0,Retraso_Moderado
+14,Miércoles,0,Despejado,Héroes,910,8,0,Normal
+17,Miércoles,1,Despejado,Portal Norte,2284,4,0,Retraso_Critico
+10,Viernes,0,Lluvia fuerte,Portal Américas,777,8,1,Retraso_Critico
+16,Lunes,0,Despejado,Portal Norte,870,6,0,Normal
+16,Miércoles,0,Despejado,Portal Norte,1129,8,0,Normal
+15,Domingo,0,Lluvia ligera,Ricaurte,579,12,0,Normal
+11,Jueves,0,Despejado,Calle 100,1542,6,0,Normal
+5,Martes,0,Despejado,Ricaurte,1023,6,0,Normal
+5,Jueves,0,Despejado,Portal Norte,999,10,0,Normal
+17,Miércoles,1,Despejado,Calle 100,2807,4,1,Retraso_Critico
+13,Jueves,0,Lluvia ligera,Portal El Dorado,1141,10,1,Retraso_Critico
+7,Lunes,1,Despejado,Portal Américas,2578,3,0,Normal
+11,Lunes,0,Despejado,Ricaurte,890,6,0,Normal
+10,Lunes,0,Despejado,Ricaurte,825,10,0,Normal
+12,Domingo,0,Despejado,Banderas,765,6,0,Normal
+13,Viernes,0,Lluvia ligera,Calle 100,865,10,0,Retraso_Moderado
+9,Martes,0,Despejado,Ricaurte,1282,8,0,Normal
+5,Martes,0,Despejado,Héroes,769,15,0,Normal
+23,Viernes,0,Lluvia fuerte,Portal El Dorado,907,8,1,Retraso_Critico
+14,Lunes,0,Lluvia ligera,Portal Américas,972,8,0,Retraso_Moderado
+16,Martes,0,Despejado,Ricaurte,835,12,0,Normal
+19,Domingo,0,Despejado,Portal El Dorado,1612,8,0,Normal
+13,Martes,0,Lluvia ligera,Ricaurte,718,8,0,Normal
+21,Viernes,0,Lluvia ligera,Portal Norte,1562,12,0,Retraso_Moderado
+21,Domingo,0,Despejado,Calle 100,1193,8,0,Normal
+16,Miércoles,0,Lluvia fuerte,Portal El Dorado,1069,8,0,Retraso_Moderado
+11,Lunes,0,Despejado,Calle 100,1511,8,0,Normal
+6,Martes,1,Despejado,Portal El Dorado,2577,5,0,Retraso_Moderado
+7,Sábado,0,Despejado,Portal Américas,1112,6,0,Normal
+21,Sábado,0,Despejado,Portal Américas,1153,10,0,Normal
+9,Viernes,0,Lluvia ligera,Portal Norte,1161,10,0,Retraso_Moderado
+21,Lunes,0,Despejado,Calle 100,1666,8,0,Normal
+21,Viernes,0,Despejado,Héroes,528,8,0,Normal
+21,Domingo,0,Lluvia ligera,Banderas,457,15,0,Normal
+6,Jueves,1,Despejado,Ricaurte,2767,4,1,Retraso_Critico
+6,Domingo,0,Despejado,Portal Américas,976,8,0,Retraso_Moderado
+9,Sábado,0,Despejado,Ricaurte,1075,12,0,Normal
+5,Viernes,0,Despejado,Ricaurte,1090,10,0,Normal
+5,Jueves,0,Despejado,Ricaurte,748,8,0,Normal
+23,Miércoles,0,Lluvia ligera,Portal Norte,1192,6,0,Retraso_Moderado
+6,Lunes,1,Despejado,Ricaurte,2146,3,0,Retraso_Moderado
+16,Jueves,0,Despejado,Portal El Dorado,644,12,0,Normal
+10,Martes,0,Lluvia ligera,Héroes,1044,10,0,Normal
+8,Sábado,0,Lluvia ligera,Portal Norte,1461,10,0,Normal
+15,Domingo,0,Despejado,Portal El Dorado,780,6,0,Normal
+21,Viernes,0,Despejado,Ricaurte,1308,10,0,Normal
+10,Lunes,0,Despejado,Portal Américas,1441,12,0,Normal
+9,Martes,0,Despejado,Portal Norte,1597,12,0,Normal
+6,Lunes,1,Despejado,Portal Américas,2915,5,0,Retraso_Moderado
+10,Viernes,0,Despejado,Calle 100,1580,10,0,Normal
+15,Viernes,0,Lluvia fuerte,Calle 100,1744,6,0,Retraso_Moderado
+20,Domingo,0,Despejado,Portal El Dorado,796,10,0,Normal
+20,Miércoles,0,Lluvia ligera,Portal El Dorado,861,10,0,Retraso_Moderado
+5,Sábado,0,Despejado,Ricaurte,663,6,0,Normal
+13,Sábado,0,Lluvia ligera,Héroes,613,12,0,Normal
+10,Martes,0,Lluvia ligera,Calle 100,916,6,0,Normal
+20,Sábado,0,Lluvia ligera,Calle 100,997,12,0,Normal
+7,Miércoles,1,Despejado,Ricaurte,2460,3,0,Retraso_Moderado
+8,Martes,1,Despejado,Calle 100,2635,4,1,Retraso_Critico
+23,Viernes,0,Despejado,Calle 100,1261,15,0,Normal
+7,Miércoles,1,Lluvia ligera,Calle 100,2750,6,0,Retraso_Critico
+23,Jueves,0,Despejado,Portal Norte,1082,10,0,Normal
+11,Jueves,0,Despejado,Banderas,884,8,0,Normal
+13,Jueves,0,Despejado,Calle 100,1068,6,0,Normal
+5,Miércoles,0,Despejado,Portal Américas,1122,10,0,Normal
+12,Jueves,0,Despejado,Portal Norte,997,10,0,Normal
+11,Jueves,0,Despejado,Ricaurte,921,15,0,Normal
+22,Jueves,0,Lluvia fuerte,Calle 100,1049,12,1,Retraso_Critico
+12,Miércoles,0,Lluvia ligera,Portal El Dorado,608,10,0,Normal
+5,Lunes,0,Lluvia fuerte,Portal Américas,1348,10,0,Retraso_Moderado
+15,Jueves,0,Despejado,Calle 100,1356,12,0,Normal
+22,Martes,0,Lluvia ligera,Portal Américas,1477,8,0,Normal
+14,Viernes,0,Lluvia ligera,Portal Norte,943,6,0,Retraso_Moderado
+7,Viernes,1,Lluvia ligera,Portal Américas,2735,3,0,Retraso_Moderado
+11,Jueves,0,Lluvia ligera,Calle 100,1257,12,0,Retraso_Moderado
+20,Jueves,0,Despejado,Banderas,774,10,0,Normal
+20,Domingo,0,Lluvia ligera,Portal Norte,1342,10,0,Normal
+21,Sábado,0,Despejado,Ricaurte,1024,6,0,Normal
+6,Domingo,0,Despejado,Calle 100,1319,15,0,Normal
+5,Sábado,0,Despejado,Calle 100,1564,8,0,Normal
+20,Lunes,0,Lluvia fuerte,Portal Américas,1361,10,0,Retraso_Moderado
+16,Lunes,0,Lluvia ligera,Banderas,938,6,0,Normal
+9,Jueves,0,Lluvia fuerte,Calle 100,1151,6,0,Normal
+9,Martes,0,Lluvia ligera,Portal Norte,1169,12,0,Retraso_Moderado
+13,Miércoles,0,Despejado,Calle 100,933,15,0,Normal
+13,Miércoles,0,Despejado,Portal Norte,758,8,0,Normal
+7,Jueves,1,Despejado,Portal Norte,2226,4,0,Retraso_Moderado
+23,Viernes,0,Despejado,Ricaurte,1205,8,0,Normal
+20,Viernes,0,Despejado,Portal Norte,1117,6,0,Normal
+20,Jueves,0,Despejado,Portal Norte,1596,6,0,Normal
+7,Sábado,0,Despejado,Portal El Dorado,855,12,0,Normal
+5,Miércoles,0,Lluvia fuerte,Portal Américas,711,15,0,Retraso_Moderado
+15,Sábado,0,Despejado,Portal Norte,1429,6,0,Normal
+21,Lunes,0,Lluvia ligera,Calle 100,1080,10,0,Normal
+12,Domingo,0,Lluvia ligera,Ricaurte,1152,8,0,Normal
+8,Viernes,1,Despejado,Calle 100,2428,3,0,Retraso_Moderado
+10,Miércoles,0,Despejado,Portal Américas,1303,8,0,Normal
+12,Martes,0,Despejado,Portal Norte,999,10,0,Normal
+7,Miércoles,1,Despejado,Ricaurte,2881,4,0,Retraso_Moderado
+20,Martes,0,Lluvia ligera,Calle 100,1391,8,0,Normal
+7,Martes,1,Despejado,Ricaurte,2589,3,0,Retraso_Moderado
+22,Jueves,0,Despejado,Portal El Dorado,917,8,0,Normal
+18,Jueves,1,Despejado,Ricaurte,2473,4,0,Retraso_Moderado
+22,Viernes,0,Lluvia fuerte,Calle 100,1382,12,0,Retraso_Moderado
+6,Domingo,0,Lluvia ligera,Calle 100,1457,10,0,Normal
+7,Jueves,1,Lluvia ligera,Calle 100,2415,4,0,Retraso_Moderado
+20,Jueves,0,Despejado,Portal Norte,975,8,0,Normal
+13,Lunes,0,Lluvia ligera,Calle 100,1468,8,0,Normal
+8,Viernes,1,Lluvia ligera,Portal El Dorado,2721,4,0,Retraso_Moderado
+5,Miércoles,0,Lluvia ligera,Portal Américas,982,6,0,Normal
+8,Domingo,0,Lluvia fuerte,Portal Américas,1268,10,0,Retraso_Moderado
+5,Sábado,0,Despejado,Ricaurte,740,8,0,Normal
+18,Jueves,1,Lluvia fuerte,Ricaurte,1977,3,0,Retraso_Critico
+20,Lunes,0,Lluvia fuerte,Portal Norte,1096,10,1,Retraso_Critico
+12,Sábado,0,Despejado,Banderas,818,8,0,Normal
+11,Viernes,0,Despejado,Portal Norte,1477,15,0,Normal
+7,Martes,1,Lluvia fuerte,Portal El Dorado,1866,3,1,Retraso_Critico
+21,Martes,0,Despejado,Portal El Dorado,1038,10,0,Normal
+5,Viernes,0,Despejado,Portal El Dorado,1136,8,0,Normal
+20,Martes,0,Lluvia fuerte,Ricaurte,744,15,0,Retraso_Moderado
+16,Domingo,0,Despejado,Portal Norte,1434,8,0,Normal
+23,Miércoles,0,Despejado,Portal Américas,960,10,0,Normal
+18,Lunes,1,Despejado,Ricaurte,1280,6,0,Retraso_Moderado
+10,Sábado,0,Despejado,Portal Américas,1006,10,0,Normal
+10,Miércoles,0,Despejado,Banderas,1137,8,0,Normal
+17,Jueves,1,Despejado,Calle 100,2853,5,0,Retraso_Moderado
+23,Lunes,0,Lluvia ligera,Calle 100,1610,12,0,Retraso_Moderado
+12,Lunes,0,Despejado,Calle 100,1123,15,0,Retraso_Moderado
+6,Jueves,1,Lluvia ligera,Calle 100,2844,4,0,Retraso_Moderado
+5,Jueves,0,Lluvia ligera,Ricaurte,1032,12,0,Normal
+19,Jueves,1,Despejado,Portal El Dorado,3107,6,0,Retraso_Moderado
+5,Viernes,0,Lluvia ligera,Ricaurte,749,12,0,Normal
+9,Viernes,0,Despejado,Portal El Dorado,1210,10,0,Normal
+20,Martes,0,Despejado,Banderas,771,8,0,Normal
+23,Miércoles,0,Despejado,Portal El Dorado,717,12,0,Normal
+8,Sábado,0,Lluvia fuerte,Portal Norte,1419,12,0,Retraso_Moderado
+7,Viernes,1,Despejado,Portal El Dorado,2419,3,0,Retraso_Moderado
+21,Jueves,0,Despejado,Calle 100,1539,12,0,Normal
+21,Martes,0,Lluvia ligera,Portal Norte,1184,6,0,Normal
+16,Martes,0,Despejado,Ricaurte,737,12,0,Normal
+18,Viernes,1,Despejado,Calle 100,3358,4,0,Retraso_Moderado
+10,Sábado,0,Despejado,Portal Norte,1088,6,0,Normal
+7,Viernes,1,Lluvia ligera,Portal Norte,1978,3,0,Retraso_Critico
+13,Sábado,0,Lluvia ligera,Portal Norte,1407,10,0,Retraso_Moderado
+9,Viernes,0,Despejado,Banderas,1357,10,0,Normal
+21,Lunes,0,Despejado,Portal Norte,1138,8,0,Normal
+18,Miércoles,1,Despejado,Calle 100,3007,3,0,Retraso_Moderado
+7,Lunes,1,Lluvia ligera,Portal Américas,2409,4,0,Retraso_Moderado
+5,Martes,0,Despejado,Calle 100,1328,8,0,Normal
+5,Sábado,0,Despejado,Banderas,964,8,0,Normal
+7,Miércoles,1,Despejado,Portal Norte,3608,4,0,Retraso_Critico
+22,Jueves,0,Despejado,Portal Américas,1366,6,0,Normal
+14,Martes,0,Despejado,Ricaurte,624,10,0,Normal
+7,Martes,1,Despejado,Héroes,2185,4,1,Retraso_Critico
+12,Martes,0,Despejado,Ricaurte,554,10,0,Normal
+18,Martes,1,Lluvia ligera,Portal El Dorado,2494,5,0,Retraso_Moderado
+22,Jueves,0,Despejado,Portal Norte,702,8,0,Normal
+19,Martes,1,Lluvia fuerte,Portal Américas,2704,4,0,Retraso_Critico
+6,Jueves,1,Despejado,Portal Américas,3572,6,0,Retraso_Critico
+14,Lunes,0,Lluvia ligera,Banderas,1040,6,0,Normal
+6,Lunes,1,Lluvia ligera,Portal Norte,2648,6,1,Retraso_Critico
+21,Martes,0,Despejado,Portal Norte,1108,10,0,Normal
+12,Jueves,0,Despejado,Calle 100,1113,12,0,Normal
+5,Viernes,0,Lluvia ligera,Portal Norte,1243,8,0,Retraso_Moderado
+13,Miércoles,0,Despejado,Calle 100,894,8,0,Normal
+15,Miércoles,0,Lluvia fuerte,Héroes,663,15,0,Retraso_Moderado
+20,Viernes,0,Despejado,Portal Américas,1620,6,0,Normal
+11,Lunes,0,Lluvia fuerte,Ricaurte,1000,6,0,Retraso_Moderado
+14,Miércoles,0,Despejado,Portal El Dorado,1090,8,0,Normal
+7,Sábado,0,Lluvia ligera,Portal Américas,1214,15,0,Retraso_Moderado
+22,Jueves,0,Lluvia ligera,Portal Norte,1164,10,0,Normal
+17,Miércoles,1,Lluvia ligera,Calle 100,2562,3,1,Retraso_Critico
+11,Sábado,0,Despejado,Calle 100,1381,10,0,Normal
+8,Viernes,1,Lluvia ligera,Ricaurte,2350,3,0,Retraso_Moderado
+17,Martes,1,Despejado,Portal Américas,2821,6,0,Retraso_Moderado
+5,Viernes,0,Lluvia ligera,Portal Norte,1438,8,0,Normal
+12,Jueves,0,Despejado,Portal Américas,583,12,0,Normal
+18,Miércoles,1,Lluvia fuerte,Héroes,2192,6,1,Retraso_Critico
+20,Miércoles,0,Despejado,Portal El Dorado,793,8,0,Normal
+18,Miércoles,1,Lluvia ligera,Banderas,2817,3,0,Retraso_Moderado
+16,Jueves,0,Lluvia ligera,Portal El Dorado,737,8,0,Normal
+23,Miércoles,0,Lluvia ligera,Calle 100,868,10,0,Normal
+19,Sábado,0,Despejado,Portal El Dorado,984,8,0,Normal
+6,Viernes,1,Despejado,Portal Norte,2932,4,0,Retraso_Moderado
+6,Lunes,1,Lluvia fuerte,Ricaurte,2073,5,0,Retraso_Critico
+23,Viernes,0,Despejado,Ricaurte,696,10,0,Normal
+21,Martes,0,Despejado,Portal Norte,1156,6,0,Normal
+14,Jueves,0,Lluvia ligera,Portal El Dorado,1099,10,0,Normal
+10,Viernes,0,Lluvia ligera,Banderas,777,8,0,Retraso_Moderado
+19,Martes,1,Despejado,Calle 100,2815,5,0,Retraso_Moderado
+15,Miércoles,0,Lluvia ligera,Portal El Dorado,1084,8,0,Normal
+9,Martes,0,Lluvia ligera,Portal Norte,1048,15,0,Normal
+5,Lunes,0,Despejado,Ricaurte,751,10,0,Normal
+12,Miércoles,0,Lluvia fuerte,Portal Américas,1542,8,0,Retraso_Moderado
+16,Miércoles,0,Despejado,Ricaurte,880,10,0,Normal
+16,Domingo,0,Despejado,Héroes,1027,12,0,Retraso_Moderado
+9,Miércoles,0,Despejado,Banderas,1025,8,0,Normal
+11,Miércoles,0,Despejado,Portal El Dorado,600,12,0,Normal
+8,Jueves,1,Lluvia fuerte,Calle 100,1316,5,0,Retraso_Critico
+10,Lunes,0,Despejado,Banderas,993,12,0,Normal
+17,Domingo,0,Despejado,Portal Norte,683,10,0,Normal
+19,Jueves,1,Despejado,Banderas,2428,5,0,Retraso_Moderado
+7,Viernes,1,Despejado,Calle 100,2930,4,0,Retraso_Critico
+12,Martes,0,Despejado,Portal Norte,1477,15,0,Normal
+20,Miércoles,0,Despejado,Ricaurte,986,12,0,Normal
+17,Miércoles,1,Despejado,Calle 100,2397,4,0,Retraso_Moderado
+22,Sábado,0,Lluvia fuerte,Calle 100,1190,6,0,Retraso_Moderado
+14,Lunes,0,Despejado,Calle 100,1171,8,0,Normal
+23,Martes,0,Despejado,Portal Norte,1123,8,0,Normal
+21,Domingo,0,Despejado,Portal Norte,1074,6,0,Normal
+23,Miércoles,0,Lluvia ligera,Portal Norte,1871,10,0,Retraso_Moderado
+9,Miércoles,0,Despejado,Portal Américas,1401,12,0,Normal
+13,Lunes,0,Despejado,Portal Norte,933,10,0,Normal
+16,Domingo,0,Despejado,Ricaurte,1559,8,0,Normal
+5,Lunes,0,Lluvia fuerte,Calle 100,1098,10,1,Retraso_Critico
+5,Viernes,0,Despejado,Héroes,980,15,0,Normal
+19,Viernes,1,Lluvia ligera,Banderas,2882,3,0,Retraso_Moderado
+6,Martes,1,Despejado,Calle 100,2855,4,0,Retraso_Moderado
+20,Viernes,0,Despejado,Portal El Dorado,693,15,0,Normal
+12,Lunes,0,Lluvia ligera,Portal El Dorado,1312,12,0,Retraso_Moderado
+17,Martes,1,Despejado,Héroes,2394,6,0,Retraso_Moderado
+5,Viernes,0,Lluvia ligera,Ricaurte,1149,8,0,Retraso_Moderado
+20,Sábado,0,Lluvia fuerte,Portal Norte,1086,15,1,Retraso_Critico
+11,Jueves,0,Lluvia ligera,Ricaurte,876,8,1,Retraso_Moderado
+9,Jueves,0,Despejado,Ricaurte,1346,6,0,Normal
+7,Lunes,1,Lluvia ligera,Ricaurte,2535,3,0,Retraso_Moderado
+16,Lunes,0,Despejado,Calle 100,1113,10,0,Normal
+20,Lunes,0,Lluvia ligera,Banderas,729,15,0,Normal
+23,Martes,0,Lluvia ligera,Héroes,752,8,0,Normal
+9,Miércoles,0,Lluvia ligera,Calle 100,1510,10,0,Normal
+18,Miércoles,1,Despejado,Portal Norte,2868,5,0,Retraso_Moderado
+9,Miércoles,0,Despejado,Calle 100,912,8,0,Normal
+19,Martes,1,Despejado,Banderas,2271,3,0,Retraso_Moderado
+21,Jueves,0,Lluvia ligera,Ricaurte,883,15,0,Retraso_Moderado
+18,Sábado,0,Despejado,Ricaurte,979,8,0,Normal
+9,Martes,0,Despejado,Portal Américas,1049,10,0,Normal
+16,Domingo,0,Lluvia ligera,Ricaurte,1174,10,0,Retraso_Moderado
+20,Sábado,0,Despejado,Calle 100,1199,6,0,Normal
+20,Martes,0,Despejado,Portal Américas,1293,15,0,Normal
+11,Viernes,0,Despejado,Portal El Dorado,703,8,0,Normal
+8,Jueves,1,Despejado,Héroes,2208,3,1,Retraso_Critico
+5,Jueves,0,Despejado,Héroes,1564,6,0,Normal
+9,Miércoles,0,Despejado,Héroes,1350,8,0,Normal
+14,Jueves,0,Despejado,Portal Américas,1182,12,0,Normal
+9,Miércoles,0,Despejado,Portal Américas,1583,12,0,Normal
+8,Jueves,1,Lluvia ligera,Portal El Dorado,2529,6,0,Retraso_Moderado
+6,Jueves,1,Despejado,Héroes,2924,4,0,Retraso_Moderado
+14,Viernes,0,Despejado,Portal Norte,1018,10,0,Normal
+23,Jueves,0,Lluvia fuerte,Calle 100,1367,10,0,Retraso_Moderado
+5,Viernes,0,Despejado,Portal Norte,1265,12,0,Normal
+9,Lunes,0,Despejado,Ricaurte,799,10,0,Normal
+17,Martes,1,Lluvia ligera,Calle 100,3379,3,0,Retraso_Critico
+8,Sábado,0,Lluvia fuerte,Calle 100,839,8,0,Retraso_Moderado
+20,Miércoles,0,Lluvia ligera,Portal Norte,1228,8,0,Normal
+20,Lunes,0,Lluvia ligera,Calle 100,890,10,0,Normal
+6,Lunes,1,Lluvia ligera,Banderas,2017,3,1,Retraso_Critico
+21,Martes,0,Despejado,Calle 100,1023,8,0,Normal
+16,Domingo,0,Lluvia ligera,Ricaurte,990,6,0,Normal
+22,Jueves,0,Despejado,Ricaurte,731,6,0,Normal
+7,Domingo,0,Lluvia fuerte,Banderas,595,12,0,Normal
+5,Jueves,0,Despejado,Portal Norte,1319,8,0,Normal
+5,Miércoles,0,Despejado,Héroes,1273,8,0,Retraso_Moderado
+23,Martes,0,Despejado,Ricaurte,1059,8,0,Normal
+15,Jueves,0,Lluvia ligera,Héroes,1350,10,0,Retraso_Moderado
+9,Lunes,0,Despejado,Banderas,1252,10,0,Normal
+16,Sábado,0,Lluvia ligera,Calle 100,1078,10,0,Normal
+7,Sábado,0,Lluvia ligera,Portal Norte,1358,8,0,Normal
+5,Martes,0,Despejado,Calle 100,1177,8,0,Normal
+5,Domingo,0,Lluvia ligera,Portal Américas,1465,6,0,Normal
+12,Sábado,0,Lluvia ligera,Portal Norte,1177,6,0,Normal
+14,Viernes,0,Lluvia ligera,Portal Norte,1002,8,0,Normal
+15,Lunes,0,Despejado,Portal Américas,1543,8,0,Retraso_Moderado
+16,Miércoles,0,Despejado,Portal Norte,1279,10,0,Normal
+17,Jueves,1,Despejado,Portal Norte,1984,3,0,Retraso_Moderado
+16,Martes,0,Despejado,Portal Américas,1075,6,0,Normal
+18,Lunes,1,Lluvia fuerte,Portal Norte,3249,4,0,Retraso_Critico
+6,Viernes,1,Despejado,Portal Américas,3112,5,0,Retraso_Moderado
+23,Lunes,0,Lluvia ligera,Portal Américas,1080,10,0,Normal
+22,Jueves,0,Despejado,Portal Américas,1293,12,0,Normal
+7,Domingo,0,Despejado,Banderas,916,8,0,Normal
+21,Sábado,0,Lluvia ligera,Portal Américas,1090,12,0,Retraso_Moderado
+12,Martes,0,Lluvia fuerte,Portal Américas,1573,10,0,Retraso_Moderado
+14,Sábado,0,Despejado,Portal Américas,697,8,0,Normal
+6,Lunes,1,Despejado,Portal El Dorado,2099,3,0,Retraso_Moderado
+23,Lunes,0,Despejado,Banderas,864,8,0,Normal
+13,Jueves,0,Despejado,Banderas,657,8,0,Normal
+11,Miércoles,0,Despejado,Ricaurte,991,8,0,Normal
+8,Miércoles,1,Despejado,Portal Norte,2921,4,0,Retraso_Moderado
+22,Jueves,0,Despejado,Calle 100,1511,6,0,Normal
+17,Martes,1,Lluvia ligera,Portal Norte,3371,4,0,Retraso_Critico
+15,Martes,0,Despejado,Héroes,1376,6,0,Normal
+8,Jueves,1,Despejado,Ricaurte,2684,4,0,Retraso_Moderado
+8,Viernes,1,Despejado,Portal El Dorado,2403,3,0,Retraso_Moderado
+14,Jueves,0,Lluvia ligera,Calle 100,908,10,0,Normal
+9,Martes,0,Lluvia ligera,Banderas,872,6,0,Normal
+13,Miércoles,0,Despejado,Calle 100,1083,12,0,Normal
+7,Martes,1,Lluvia ligera,Portal Norte,2684,5,0,Retraso_Critico
+21,Lunes,0,Despejado,Portal Américas,1344,10,0,Normal
+7,Viernes,1,Despejado,Ricaurte,2735,3,0,Retraso_Moderado
+20,Martes,0,Despejado,Portal Américas,1364,8,0,Normal
+8,Martes,1,Despejado,Banderas,2405,3,1,Retraso_Critico
+22,Viernes,0,Lluvia ligera,Portal Norte,995,15,0,Normal
+21,Jueves,0,Lluvia fuerte,Ricaurte,897,6,0,Retraso_Moderado
+11,Jueves,0,Despejado,Portal Américas,830,15,0,Normal
+9,Martes,0,Lluvia ligera,Calle 100,1432,10,0,Normal
+16,Martes,0,Despejado,Banderas,886,8,0,Normal
+21,Martes,0,Despejado,Portal El Dorado,891,8,0,Normal
+17,Martes,1,Despejado,Portal El Dorado,2790,3,0,Retraso_Moderado
+7,Viernes,1,Despejado,Banderas,2708,3,0,Retraso_Moderado
+13,Sábado,0,Despejado,Portal El Dorado,1279,8,0,Normal
+21,Viernes,0,Despejado,Calle 100,1537,10,0,Retraso_Moderado
+21,Viernes,0,Despejado,Portal El Dorado,878,10,0,Normal
+20,Miércoles,0,Despejado,Calle 100,921,8,0,Normal
+17,Viernes,1,Lluvia ligera,Calle 100,3095,4,1,Retraso_Critico
+23,Miércoles,0,Despejado,Portal Norte,1278,12,0,Normal
+21,Jueves,0,Lluvia fuerte,Portal El Dorado,1103,10,0,Retraso_Moderado
+8,Jueves,1,Despejado,Portal El Dorado,2616,4,0,Retraso_Moderado
+16,Martes,0,Lluvia ligera,Calle 100,943,15,0,Normal
+13,Miércoles,0,Lluvia ligera,Portal El Dorado,766,8,0,Normal
+23,Domingo,0,Lluvia ligera,Banderas,743,8,0,Normal
+16,Martes,0,Despejado,Portal Norte,1334,12,0,Normal
+13,Lunes,0,Lluvia ligera,Calle 100,1340,12,0,Normal
+11,Miércoles,0,Despejado,Portal El Dorado,1073,8,0,Normal
+18,Viernes,1,Despejado,Calle 100,3008,3,0,Retraso_Moderado
+23,Jueves,0,Despejado,Ricaurte,385,10,0,Normal
+19,Viernes,1,Despejado,Portal Norte,2801,3,1,Retraso_Critico
+20,Martes,0,Despejado,Portal Américas,1164,15,0,Normal
+9,Jueves,0,Lluvia fuerte,Portal El Dorado,924,6,0,Normal
+7,Miércoles,1,Lluvia ligera,Ricaurte,3254,4,0,Retraso_Moderado
+16,Sábado,0,Despejado,Portal El Dorado,919,6,0,Normal
+8,Jueves,1,Lluvia fuerte,Banderas,2824,3,0,Retraso_Critico
+20,Martes,0,Despejado,Portal El Dorado,1065,12,0,Normal
+11,Lunes,0,Lluvia fuerte,Ricaurte,895,10,0,Retraso_Moderado
+17,Lunes,1,Despejado,Portal Norte,2354,4,1,Retraso_Critico
+14,Miércoles,0,Despejado,Portal Américas,796,6,0,Normal
+11,Martes,0,Lluvia ligera,Portal Norte,1221,6,0,Retraso_Moderado
+18,Viernes,1,Lluvia ligera,Portal El Dorado,2825,4,1,Retraso_Critico
+9,Jueves,0,Lluvia ligera,Calle 100,950,12,0,Normal
+7,Martes,1,Lluvia fuerte,Ricaurte,3192,3,0,Retraso_Critico
+15,Lunes,0,Lluvia ligera,Calle 100,1363,12,0,Retraso_Moderado
+15,Lunes,0,Lluvia ligera,Portal El Dorado,912,8,0,Normal
+22,Sábado,0,Lluvia ligera,Banderas,902,8,0,Normal
+19,Martes,1,Lluvia ligera,Portal Américas,2842,4,0,Retraso_Moderado
+16,Viernes,0,Despejado,Banderas,991,8,0,Normal
+13,Sábado,0,Lluvia fuerte,Calle 100,1024,8,0,Retraso_Moderado
+14,Jueves,0,Despejado,Portal Américas,1150,10,0,Normal
+16,Sábado,0,Lluvia ligera,Banderas,1039,8,0,Normal
+21,Miércoles,0,Lluvia fuerte,Calle 100,691,12,1,Retraso_Critico
+10,Domingo,0,Lluvia ligera,Héroes,667,6,0,Normal
+11,Lunes,0,Lluvia ligera,Portal Norte,1370,12,0,Normal
+18,Lunes,1,Lluvia ligera,Portal Norte,2571,3,0,Retraso_Moderado
+17,Viernes,1,Despejado,Banderas,2283,5,0,Retraso_Moderado
+12,Domingo,0,Lluvia ligera,Portal Norte,1423,8,0,Retraso_Moderado
+14,Sábado,0,Despejado,Héroes,932,8,0,Normal
+13,Lunes,0,Despejado,Héroes,642,8,0,Normal
+22,Martes,0,Despejado,Portal Norte,1150,8,0,Normal
+6,Domingo,0,Despejado,Portal Américas,701,10,0,Normal
+9,Martes,0,Despejado,Calle 100,1525,8,0,Normal
+9,Viernes,0,Lluvia ligera,Portal Américas,995,6,0,Retraso_Moderado
+10,Sábado,0,Despejado,Portal Norte,1066,6,1,Retraso_Moderado
+23,Jueves,0,Despejado,Calle 100,1464,10,0,Normal
+12,Miércoles,0,Despejado,Portal Américas,796,6,0,Normal
+20,Miércoles,0,Despejado,Portal Américas,902,12,0,Normal
+17,Martes,1,Lluvia ligera,Héroes,2577,5,0,Retraso_Moderado
+5,Sábado,0,Despejado,Portal El Dorado,1030,12,0,Normal
+21,Miércoles,0,Despejado,Portal El Dorado,882,12,0,Normal
+11,Sábado,0,Despejado,Portal Américas,1190,6,0,Normal
+17,Lunes,1,Despejado,Banderas,3100,3,0,Retraso_Moderado
+8,Domingo,0,Despejado,Calle 100,1359,10,0,Normal
+8,Miércoles,1,Despejado,Portal El Dorado,2189,5,0,Retraso_Moderado
+10,Lunes,0,Lluvia ligera,Héroes,1093,12,0,Normal
+23,Lunes,0,Lluvia ligera,Calle 100,1124,6,0,Retraso_Moderado
+16,Viernes,0,Despejado,Ricaurte,1443,8,0,Normal
+11,Viernes,0,Lluvia fuerte,Banderas,323,10,1,Retraso_Critico
+14,Sábado,0,Despejado,Banderas,1264,10,0,Retraso_Moderado
+23,Lunes,0,Despejado,Portal El Dorado,1125,8,0,Normal
+11,Lunes,0,Lluvia fuerte,Calle 100,1262,8,0,Retraso_Moderado
+7,Jueves,1,Despejado,Calle 100,3201,3,0,Retraso_Moderado
+17,Miércoles,1,Lluvia fuerte,Portal Norte,3112,4,0,Retraso_Critico
+17,Miércoles,1,Despejado,Portal El Dorado,2006,4,0,Retraso_Moderado
+22,Domingo,0,Despejado,Portal Norte,1190,12,0,Normal
+12,Domingo,0,Despejado,Banderas,718,8,0,Normal
+13,Domingo,0,Lluvia ligera,Portal Norte,1425,6,0,Retraso_Moderado
+11,Viernes,0,Lluvia ligera,Portal Norte,1596,6,0,Normal
+5,Miércoles,0,Lluvia ligera,Portal Américas,718,8,0,Normal
+7,Miércoles,1,Despejado,Portal El Dorado,2550,3,0,Retraso_Moderado
+17,Jueves,1,Despejado,Portal Norte,3812,4,0,Retraso_Critico
+21,Sábado,0,Despejado,Portal Américas,959,10,0,Normal
+5,Lunes,0,Despejado,Portal Américas,888,12,0,Normal
+10,Miércoles,0,Lluvia fuerte,Calle 100,1200,15,1,Retraso_Critico
+10,Lunes,0,Despejado,Portal Norte,880,8,0,Normal
+16,Jueves,0,Lluvia ligera,Banderas,610,6,0,Normal
+17,Sábado,0,Lluvia ligera,Portal Américas,1027,8,0,Normal
+17,Viernes,1,Despejado,Portal Norte,2750,4,0,Retraso_Moderado
+19,Martes,1,Lluvia ligera,Portal El Dorado,2341,4,1,Retraso_Critico
+20,Domingo,0,Despejado,Héroes,1210,6,0,Normal
+15,Viernes,0,Despejado,Ricaurte,1204,6,0,Normal
+9,Lunes,0,Despejado,Portal Américas,1456,12,0,Normal
+8,Martes,1,Despejado,Banderas,3062,3,0,Retraso_Moderado
+7,Martes,1,Despejado,Héroes,2403,4,0,Retraso_Moderado
+23,Lunes,0,Despejado,Portal El Dorado,434,8,0,Normal
+22,Domingo,0,Despejado,Portal Américas,1454,8,0,Normal
+19,Miércoles,1,Despejado,Ricaurte,2762,4,0,Retraso_Moderado
+13,Sábado,0,Lluvia ligera,Portal El Dorado,745,6,0,Normal
+21,Miércoles,0,Lluvia ligera,Calle 100,839,10,0,Normal
+18,Lunes,1,Despejado,Portal Américas,2904,4,0,Retraso_Moderado
+19,Miércoles,1,Despejado,Banderas,2818,4,0,Normal
+5,Lunes,0,Lluvia ligera,Ricaurte,944,12,0,Normal
+7,Jueves,1,Despejado,Portal Américas,2335,4,0,Retraso_Moderado
+20,Domingo,0,Lluvia ligera,Ricaurte,787,10,0,Normal
+15,Jueves,0,Despejado,Portal Norte,1138,8,0,Normal
+16,Jueves,0,Despejado,Portal Américas,1481,12,0,Normal
+14,Lunes,0,Despejado,Portal El Dorado,368,6,0,Normal
+20,Lunes,0,Despejado,Calle 100,1279,12,0,Normal
+12,Lunes,0,Lluvia ligera,Calle 100,1116,6,0,Retraso_Moderado
+10,Jueves,0,Despejado,Héroes,1078,8,0,Normal
+16,Lunes,0,Lluvia ligera,Calle 100,1328,10,0,Retraso_Moderado
+12,Miércoles,0,Lluvia ligera,Calle 100,1025,6,0,Normal
+8,Jueves,1,Despejado,Héroes,2074,4,0,Retraso_Moderado
+12,Miércoles,0,Lluvia ligera,Portal El Dorado,324,12,0,Retraso_Moderado
+22,Martes,0,Despejado,Ricaurte,1087,12,0,Normal
+9,Martes,0,Despejado,Banderas,959,6,0,Normal
+13,Domingo,0,Lluvia ligera,Portal Norte,1549,6,0,Normal
+8,Viernes,1,Despejado,Portal El Dorado,2034,6,0,Retraso_Moderado
+21,Jueves,0,Despejado,Portal Américas,1428,6,0,Normal
+13,Lunes,0,Despejado,Banderas,632,15,0,Normal
+5,Domingo,0,Despejado,Portal Américas,523,10,0,Normal
+17,Viernes,1,Lluvia ligera,Ricaurte,2394,4,0,Retraso_Critico
+20,Martes,0,Lluvia ligera,Portal Américas,1058,15,0,Retraso_Moderado
+17,Sábado,0,Lluvia ligera,Portal Américas,937,10,0,Normal
+18,Martes,1,Lluvia ligera,Portal El Dorado,2142,4,0,Retraso_Moderado
+7,Jueves,1,Despejado,Ricaurte,1977,6,0,Retraso_Moderado
+10,Jueves,0,Despejado,Ricaurte,926,8,0,Normal
+22,Martes,0,Despejado,Portal Américas,1154,10,0,Normal
+23,Domingo,0,Despejado,Portal Américas,1215,6,0,Normal
+9,Viernes,0,Despejado,Portal El Dorado,736,8,0,Normal
+19,Jueves,1,Lluvia fuerte,Banderas,2797,4,1,Retraso_Critico
+6,Martes,1,Despejado,Ricaurte,3054,5,0,Retraso_Moderado
+14,Lunes,0,Despejado,Héroes,631,10,0,Normal
+22,Miércoles,0,Despejado,Banderas,702,10,0,Normal
+17,Viernes,1,Lluvia ligera,Ricaurte,2752,5,1,Retraso_Critico
+9,Martes,0,Lluvia ligera,Ricaurte,824,8,0,Normal
+5,Jueves,0,Despejado,Héroes,1240,10,0,Normal
+5,Viernes,0,Despejado,Ricaurte,1100,6,0,Normal
+22,Lunes,0,Lluvia ligera,Banderas,699,10,0,Normal
+19,Viernes,1,Despejado,Ricaurte,2235,4,0,Retraso_Moderado
+21,Lunes,0,Despejado,Ricaurte,797,6,0,Normal
+15,Domingo,0,Lluvia ligera,Calle 100,1318,12,0,Retraso_Moderado
+21,Jueves,0,Lluvia ligera,Portal Américas,1412,12,0,Retraso_Moderado
+17,Lunes,1,Despejado,Héroes,2199,5,0,Retraso_Moderado
+5,Miércoles,0,Lluvia ligera,Ricaurte,950,6,1,Retraso_Moderado
+6,Miércoles,1,Lluvia ligera,Ricaurte,2942,4,0,Retraso_Moderado
+13,Viernes,0,Despejado,Héroes,1010,6,0,Normal
+7,Viernes,1,Lluvia fuerte,Ricaurte,2389,4,0,Retraso_Critico
+5,Jueves,0,Lluvia ligera,Portal Américas,1124,10,0,Normal
+20,Lunes,0,Lluvia ligera,Portal El Dorado,742,8,0,Normal
+10,Lunes,0,Lluvia ligera,Portal El Dorado,1004,6,0,Normal
+21,Lunes,0,Despejado,Calle 100,1225,8,0,Normal
+9,Jueves,0,Despejado,Portal Américas,1265,8,0,Normal
+9,Sábado,0,Despejado,Portal Américas,1320,10,0,Normal
+10,Miércoles,0,Despejado,Portal Américas,1264,15,0,Normal
+7,Martes,1,Despejado,Portal Américas,3285,6,0,Retraso_Moderado
+9,Jueves,0,Lluvia fuerte,Portal Américas,1068,8,0,Retraso_Moderado
+9,Sábado,0,Lluvia ligera,Calle 100,1308,12,0,Retraso_Moderado
+14,Viernes,0,Lluvia ligera,Portal Américas,1143,12,0,Normal
+14,Sábado,0,Lluvia ligera,Portal Norte,584,15,0,Normal
+23,Martes,0,Lluvia ligera,Ricaurte,851,8,0,Normal
+21,Martes,0,Despejado,Banderas,665,12,0,Normal
+18,Sábado,0,Despejado,Portal El Dorado,883,10,1,Retraso_Moderado
+13,Viernes,0,Despejado,Portal Américas,1193,8,0,Normal
+18,Martes,1,Lluvia ligera,Portal Norte,2893,4,0,Retraso_Moderado
+5,Viernes,0,Despejado,Calle 100,1067,6,0,Normal
+23,Sábado,0,Lluvia ligera,Ricaurte,798,6,0,Normal
+17,Jueves,1,Despejado,Calle 100,3463,5,0,Retraso_Moderado
+17,Viernes,1,Lluvia ligera,Ricaurte,2096,3,0,Retraso_Moderado
+8,Miércoles,1,Lluvia ligera,Calle 100,3029,5,0,Retraso_Critico
+5,Jueves,0,Lluvia ligera,Banderas,939,10,0,Normal
+21,Jueves,0,Lluvia fuerte,Portal Américas,1467,6,0,Retraso_Moderado
+12,Sábado,0,Lluvia ligera,Calle 100,1372,8,0,Normal
+6,Sábado,0,Lluvia fuerte,Portal El Dorado,943,12,0,Retraso_Moderado
+12,Sábado,0,Lluvia fuerte,Calle 100,1512,10,0,Retraso_Moderado
+11,Lunes,0,Lluvia ligera,Portal Norte,1470,15,0,Normal
+6,Viernes,1,Lluvia ligera,Ricaurte,1997,3,0,Retraso_Moderado
+7,Viernes,1,Despejado,Ricaurte,2427,5,1,Retraso_Critico
+22,Viernes,0,Despejado,Portal El Dorado,972,6,0,Normal
+16,Viernes,0,Despejado,Calle 100,1178,15,0,Normal
+5,Sábado,0,Despejado,Portal Américas,1483,10,1,Retraso_Critico
+16,Miércoles,0,Despejado,Calle 100,1161,6,0,Normal
+9,Jueves,0,Lluvia fuerte,Portal Norte,1074,12,1,Retraso_Critico
+21,Lunes,0,Lluvia fuerte,Banderas,252,12,1,Retraso_Critico
+20,Miércoles,0,Lluvia ligera,Portal El Dorado,700,10,0,Normal
+19,Viernes,1,Despejado,Calle 100,2833,3,0,Normal
+19,Viernes,1,Despejado,Ricaurte,3004,6,0,Retraso_Critico
+9,Martes,0,Despejado,Calle 100,886,10,0,Normal
+18,Lunes,1,Despejado,Banderas,2105,3,0,Retraso_Moderado
+6,Viernes,1,Despejado,Portal Norte,2463,3,0,Retraso_Moderado
+15,Lunes,0,Despejado,Portal Norte,1192,10,0,Normal
+23,Martes,0,Lluvia fuerte,Portal Américas,953,12,0,Retraso_Moderado
+11,Lunes,0,Lluvia ligera,Ricaurte,971,15,0,Normal
+10,Martes,0,Despejado,Ricaurte,1373,6,0,Normal
+6,Martes,1,Despejado,Portal Norte,1830,4,0,Retraso_Critico
+10,Miércoles,0,Despejado,Calle 100,848,12,0,Normal
+22,Miércoles,0,Despejado,Portal Américas,839,6,0,Normal
+6,Sábado,0,Lluvia fuerte,Calle 100,775,6,0,Retraso_Moderado
+22,Jueves,0,Despejado,Banderas,615,6,0,Normal
+19,Viernes,1,Despejado,Portal Norte,1995,5,0,Retraso_Moderado
+23,Lunes,0,Despejado,Portal Américas,1060,8,0,Normal
+6,Martes,1,Despejado,Ricaurte,3324,6,0,Retraso_Critico
+10,Viernes,0,Lluvia ligera,Calle 100,1459,15,0,Normal
+5,Lunes,0,Lluvia ligera,Ricaurte,1032,10,0,Normal
+19,Jueves,1,Lluvia ligera,Banderas,2568,4,0,Retraso_Critico
+14,Jueves,0,Despejado,Calle 100,1445,6,0,Normal
+23,Jueves,0,Despejado,Banderas,1026,10,0,Normal
+21,Lunes,0,Despejado,Ricaurte,1032,10,1,Retraso_Critico
+9,Miércoles,0,Lluvia ligera,Calle 100,1057,10,0,Normal
+8,Jueves,1,Despejado,Portal Américas,3606,4,0,Retraso_Critico
+14,Lunes,0,Despejado,Calle 100,706,8,0,Normal
+21,Viernes,0,Lluvia ligera,Portal El Dorado,1116,12,0,Normal
+14,Viernes,0,Lluvia ligera,Portal El Dorado,650,10,0,Retraso_Moderado
+21,Domingo,0,Despejado,Banderas,682,10,0,Normal
+9,Martes,0,Despejado,Héroes,678,10,0,Normal
+6,Sábado,0,Despejado,Portal El Dorado,1350,8,0,Normal
+10,Jueves,0,Lluvia ligera,Ricaurte,732,12,0,Normal
+6,Miércoles,1,Despejado,Calle 100,3056,4,0,Retraso_Moderado
+17,Lunes,1,Lluvia fuerte,Ricaurte,2353,3,0,Retraso_Critico
+15,Viernes,0,Despejado,Portal Norte,992,15,0,Retraso_Moderado
+15,Martes,0,Lluvia fuerte,Portal El Dorado,647,12,0,Retraso_Moderado
+20,Miércoles,0,Lluvia ligera,Portal Américas,1042,8,0,Normal
+15,Lunes,0,Despejado,Portal Norte,1181,8,0,Normal
+23,Sábado,0,Lluvia ligera,Portal Norte,1350,10,0,Normal
+19,Viernes,1,Despejado,Portal Américas,3102,3,0,Retraso_Moderado
+20,Viernes,0,Lluvia fuerte,Ricaurte,772,10,0,Retraso_Moderado
+15,Martes,0,Lluvia ligera,Portal Américas,979,10,0,Retraso_Moderado
+20,Martes,0,Despejado,Ricaurte,601,6,0,Normal
+12,Jueves,0,Lluvia ligera,Portal Américas,880,10,0,Retraso_Moderado
+8,Jueves,1,Lluvia fuerte,Ricaurte,1897,4,1,Retraso_Critico
+12,Martes,0,Despejado,Calle 100,1067,15,0,Normal
+8,Viernes,1,Despejado,Portal Norte,3085,3,0,Retraso_Moderado
+7,Domingo,0,Lluvia ligera,Ricaurte,733,12,0,Retraso_Moderado
+7,Viernes,1,Lluvia ligera,Portal Américas,3130,3,1,Retraso_Critico
+22,Viernes,0,Despejado,Portal Norte,1292,10,0,Normal
+23,Domingo,0,Despejado,Portal Américas,1078,12,0,Normal
+23,Martes,0,Despejado,Portal Norte,1245,8,0,Normal
+9,Jueves,0,Despejado,Portal Américas,1554,8,0,Normal
+22,Domingo,0,Despejado,Portal Américas,995,12,0,Normal
+14,Martes,0,Lluvia fuerte,Ricaurte,790,10,0,Retraso_Moderado
+10,Viernes,0,Despejado,Portal El Dorado,1060,6,0,Normal
+5,Jueves,0,Lluvia ligera,Calle 100,1574,8,0,Normal
+9,Jueves,0,Despejado,Héroes,589,10,0,Normal
+13,Viernes,0,Despejado,Portal Américas,774,15,0,Retraso_Moderado
+16,Domingo,0,Despejado,Ricaurte,899,6,0,Normal
+18,Viernes,1,Despejado,Ricaurte,2528,6,0,Retraso_Moderado
+6,Lunes,1,Lluvia ligera,Ricaurte,2549,3,0,Retraso_Moderado
+21,Sábado,0,Lluvia fuerte,Portal Américas,1336,8,1,Retraso_Critico
+18,Martes,1,Lluvia ligera,Portal Américas,1998,3,0,Retraso_Moderado
+17,Miércoles,1,Lluvia fuerte,Portal Norte,3139,4,0,Retraso_Critico
+13,Miércoles,0,Lluvia fuerte,Portal Norte,1029,6,0,Retraso_Moderado
+19,Jueves,1,Despejado,Calle 100,3288,4,0,Retraso_Critico
+19,Miércoles,1,Lluvia ligera,Calle 100,2542,3,0,Retraso_Moderado
+15,Domingo,0,Lluvia ligera,Portal Américas,1189,15,1,Retraso_Critico
+20,Viernes,0,Despejado,Portal Norte,834,12,0,Normal
+21,Jueves,0,Lluvia ligera,Portal El Dorado,621,10,0,Normal
+8,Lunes,1,Despejado,Banderas,2852,6,0,Retraso_Moderado
+5,Sábado,0,Despejado,Héroes,443,10,0,Normal
+12,Sábado,0,Lluvia ligera,Portal Américas,1145,12,0,Normal
+21,Viernes,0,Despejado,Portal El Dorado,1106,8,0,Normal
+7,Lunes,1,Despejado,Banderas,2707,4,0,Retraso_Critico
+19,Lunes,1,Lluvia fuerte,Portal Américas,3762,4,0,Retraso_Critico
+19,Martes,1,Lluvia ligera,Calle 100,3029,6,1,Retraso_Critico
+18,Lunes,1,Despejado,Héroes,2353,4,0,Retraso_Moderado
+18,Miércoles,1,Lluvia ligera,Portal Américas,3936,5,0,Retraso_Critico
+6,Domingo,0,Despejado,Portal Américas,1307,8,0,Normal
+17,Miércoles,1,Despejado,Portal Norte,2158,5,0,Retraso_Moderado
+18,Lunes,1,Lluvia fuerte,Portal Norte,2486,3,0,Retraso_Critico
+23,Martes,0,Lluvia ligera,Banderas,784,15,0,Retraso_Moderado
+11,Lunes,0,Despejado,Ricaurte,500,15,0,Normal
+7,Lunes,1,Lluvia ligera,Calle 100,3028,4,0,Retraso_Critico
+19,Martes,1,Lluvia fuerte,Calle 100,3025,3,0,Retraso_Critico
+18,Martes,1,Despejado,Ricaurte,1848,3,0,Normal
+15,Viernes,0,Despejado,Ricaurte,1138,15,0,Retraso_Moderado
+19,Domingo,0,Despejado,Calle 100,1360,15,0,Normal
+17,Miércoles,1,Lluvia ligera,Banderas,1771,3,0,Retraso_Moderado
+22,Miércoles,0,Lluvia ligera,Portal Norte,1452,8,0,Normal
+10,Sábado,0,Lluvia ligera,Calle 100,1203,10,0,Normal
+7,Martes,1,Lluvia fuerte,Ricaurte,1878,5,0,Retraso_Moderado
+23,Lunes,0,Lluvia ligera,Calle 100,822,8,0,Normal
+19,Sábado,0,Despejado,Banderas,1219,10,0,Normal
+9,Lunes,0,Despejado,Portal El Dorado,338,12,0,Normal
+14,Jueves,0,Despejado,Portal El Dorado,849,10,0,Normal
+11,Jueves,0,Despejado,Portal Norte,1945,8,0,Normal
+21,Miércoles,0,Lluvia ligera,Portal Norte,1314,10,1,Retraso_Critico
+11,Martes,0,Lluvia fuerte,Calle 100,1147,15,0,Retraso_Moderado
+16,Viernes,0,Despejado,Portal Américas,778,10,0,Normal
+21,Lunes,0,Despejado,Portal El Dorado,1304,12,0,Normal
+17,Martes,1,Lluvia ligera,Banderas,1920,3,1,Retraso_Critico
+8,Viernes,1,Despejado,Portal El Dorado,2373,5,0,Retraso_Moderado
+14,Jueves,0,Despejado,Héroes,899,10,0,Normal
+7,Lunes,1,Despejado,Portal El Dorado,2179,6,0,Retraso_Moderado
+13,Sábado,0,Despejado,Calle 100,1162,8,0,Normal
+17,Miércoles,1,Lluvia fuerte,Calle 100,2154,3,0,Retraso_Critico
+22,Sábado,0,Despejado,Ricaurte,1139,6,0,Normal
+19,Viernes,1,Despejado,Calle 100,2888,4,0,Retraso_Moderado
+8,Jueves,1,Despejado,Portal Norte,2923,4,0,Retraso_Moderado
+19,Jueves,1,Lluvia fuerte,Portal Américas,2995,3,1,Retraso_Critico
+6,Domingo,0,Despejado,Banderas,1015,8,0,Normal
+19,Lunes,1,Despejado,Portal Norte,2606,5,0,Retraso_Moderado
+12,Viernes,0,Despejado,Portal El Dorado,876,6,0,Normal
+12,Martes,0,Despejado,Portal El Dorado,907,10,0,Normal
+21,Miércoles,0,Despejado,Portal Américas,1940,6,0,Normal
+16,Martes,0,Lluvia ligera,Portal Norte,1400,8,0,Normal
+23,Domingo,0,Despejado,Portal Norte,1846,6,0,Normal
+14,Domingo,0,Despejado,Portal El Dorado,897,12,0,Normal
+13,Martes,0,Lluvia ligera,Portal El Dorado,822,15,0,Retraso_Moderado
+9,Lunes,0,Despejado,Banderas,631,15,0,Normal
+10,Viernes,0,Despejado,Ricaurte,1300,8,0,Normal
+6,Miércoles,1,Despejado,Portal Norte,3023,4,0,Retraso_Moderado
+17,Lunes,1,Lluvia fuerte,Portal Norte,2741,3,0,Retraso_Critico
+10,Viernes,0,Despejado,Portal El Dorado,645,8,0,Normal
+9,Jueves,0,Lluvia fuerte,Calle 100,1421,8,0,Retraso_Moderado
+5,Domingo,0,Lluvia ligera,Calle 100,802,6,0,Normal
+10,Martes,0,Despejado,Portal Américas,1089,12,0,Normal
+10,Miércoles,0,Lluvia fuerte,Portal Norte,1205,8,0,Retraso_Moderado
+20,Jueves,0,Despejado,Calle 100,1050,8,0,Normal
+8,Viernes,1,Despejado,Portal Américas,3066,3,0,Retraso_Moderado
+15,Jueves,0,Lluvia ligera,Calle 100,1158,10,0,Normal
+13,Jueves,0,Lluvia ligera,Portal Norte,1401,12,0,Retraso_Moderado
+7,Martes,1,Lluvia ligera,Portal El Dorado,2267,3,0,Retraso_Moderado
+23,Sábado,0,Despejado,Portal El Dorado,759,10,0,Normal
+12,Miércoles,0,Despejado,Calle 100,1513,10,0,Normal
+9,Lunes,0,Lluvia ligera,Portal El Dorado,1040,6,0,Normal
+8,Viernes,1,Despejado,Portal Américas,2631,4,0,Retraso_Critico
+10,Martes,0,Despejado,Portal Américas,1389,15,0,Normal
+6,Lunes,1,Despejado,Banderas,2471,5,0,Retraso_Moderado
+15,Sábado,0,Despejado,Portal El Dorado,1065,10,0,Normal
+8,Miércoles,1,Lluvia ligera,Portal El Dorado,2558,3,0,Retraso_Moderado
+19,Viernes,1,Despejado,Portal Norte,2540,3,0,Retraso_Moderado
+10,Martes,0,Lluvia fuerte,Portal Norte,1400,8,0,Retraso_Moderado
+21,Viernes,0,Despejado,Banderas,1030,12,0,Normal
+10,Lunes,0,Lluvia ligera,Portal Américas,1367,10,0,Normal
+23,Miércoles,0,Despejado,Calle 100,1317,12,0,Normal
+6,Domingo,0,Despejado,Portal El Dorado,1010,10,0,Normal
+19,Viernes,1,Despejado,Banderas,3590,3,1,Retraso_Critico
+15,Jueves,0,Despejado,Banderas,1033,6,0,Normal
+12,Miércoles,0,Despejado,Calle 100,1437,6,0,Normal
+23,Sábado,0,Lluvia fuerte,Banderas,1165,10,0,Retraso_Moderado
+17,Jueves,1,Lluvia ligera,Portal Norte,2062,4,0,Retraso_Moderado
+16,Viernes,0,Despejado,Portal Norte,1577,10,0,Retraso_Moderado
+9,Viernes,0,Despejado,Ricaurte,1180,10,0,Normal
+10,Lunes,0,Despejado,Portal Norte,1357,8,0,Normal
+8,Lunes,1,Despejado,Calle 100,2120,4,0,Retraso_Moderado
+23,Viernes,0,Lluvia ligera,Ricaurte,614,6,0,Normal
+5,Martes,0,Lluvia fuerte,Calle 100,1137,10,0,Retraso_Moderado
+21,Martes,0,Despejado,Portal Norte,1211,8,0,Normal
+16,Domingo,0,Despejado,Calle 100,1549,8,0,Normal
+19,Jueves,1,Despejado,Portal Américas,2527,5,0,Retraso_Moderado
+5,Viernes,0,Lluvia ligera,Portal Américas,941,10,0,Normal
+18,Jueves,1,Despejado,Portal El Dorado,2577,3,0,Retraso_Moderado
+10,Jueves,0,Lluvia ligera,Portal El Dorado,650,10,0,Normal
+9,Lunes,0,Lluvia ligera,Portal Américas,1000,12,0,Normal
+15,Miércoles,0,Despejado,Banderas,775,10,0,Normal
+8,Martes,1,Lluvia ligera,Portal Norte,2357,6,0,Retraso_Moderado
+17,Miércoles,1,Despejado,Calle 100,3146,4,0,Retraso_Moderado
+15,Viernes,0,Lluvia ligera,Banderas,1240,12,0,Normal
+7,Miércoles,1,Despejado,Portal Américas,2668,3,0,Retraso_Moderado
+5,Miércoles,0,Despejado,Héroes,1090,10,0,Normal
+10,Miércoles,0,Lluvia fuerte,Portal Américas,1191,12,0,Retraso_Moderado
+22,Lunes,0,Lluvia fuerte,Portal El Dorado,1152,15,0,Retraso_Moderado
+14,Miércoles,0,Lluvia ligera,Portal Américas,1411,8,0,Normal
+9,Martes,0,Despejado,Portal Américas,1349,6,0,Normal
+14,Martes,0,Lluvia ligera,Portal Américas,1036,8,0,Retraso_Moderado
+16,Lunes,0,Despejado,Portal El Dorado,789,12,1,Retraso_Critico
+6,Miércoles,1,Lluvia ligera,Ricaurte,3004,3,0,Retraso_Moderado
+17,Viernes,1,Despejado,Héroes,2562,3,0,Retraso_Moderado
+12,Martes,0,Lluvia fuerte,Calle 100,877,6,0,Retraso_Moderado
+6,Martes,1,Lluvia fuerte,Portal Norte,2815,6,0,Retraso_Critico
+5,Viernes,0,Lluvia ligera,Portal Américas,1589,6,0,Normal
+9,Martes,0,Despejado,Ricaurte,766,6,0,Normal
+13,Sábado,0,Despejado,Banderas,981,10,1,Retraso_Moderado
+21,Jueves,0,Lluvia ligera,Calle 100,1046,6,0,Normal
+13,Miércoles,0,Despejado,Ricaurte,1090,6,0,Normal
+15,Jueves,0,Lluvia ligera,Calle 100,1334,12,0,Normal
+19,Martes,1,Despejado,Ricaurte,2721,3,1,Retraso_Critico
+10,Jueves,0,Despejado,Banderas,967,8,0,Normal
+7,Miércoles,1,Lluvia fuerte,Calle 100,3108,3,0,Retraso_Critico
+21,Sábado,0,Lluvia ligera,Portal Américas,1061,10,0,Normal
+9,Martes,0,Despejado,Héroes,897,8,0,Normal
+16,Jueves,0,Despejado,Banderas,1361,6,0,Normal
+22,Jueves,0,Despejado,Ricaurte,979,6,1,Retraso_Critico
+18,Lunes,1,Lluvia ligera,Portal Américas,2170,3,1,Retraso_Critico
+15,Miércoles,0,Despejado,Calle 100,1120,10,0,Normal
+13,Viernes,0,Lluvia fuerte,Portal Américas,1431,12,0,Retraso_Moderado
+6,Sábado,0,Lluvia fuerte,Banderas,711,12,0,Retraso_Moderado
+16,Martes,0,Despejado,Ricaurte,1174,10,0,Normal
+7,Viernes,1,Lluvia ligera,Calle 100,2703,3,0,Retraso_Critico
+7,Domingo,0,Despejado,Calle 100,971,10,0,Normal
+5,Sábado,0,Despejado,Calle 100,1077,8,0,Normal
+12,Lunes,0,Lluvia fuerte,Portal Norte,795,8,0,Retraso_Moderado
+12,Viernes,0,Despejado,Portal Norte,656,10,0,Normal
+15,Martes,0,Despejado,Portal Américas,1179,12,0,Normal
+13,Domingo,0,Despejado,Portal Norte,1183,8,0,Normal
+9,Jueves,0,Despejado,Portal Norte,1264,12,0,Normal
+18,Lunes,1,Despejado,Ricaurte,2570,4,0,Retraso_Moderado
+7,Viernes,1,Lluvia ligera,Portal Norte,2601,6,0,Retraso_Critico
+9,Miércoles,0,Lluvia ligera,Portal Norte,1242,6,0,Normal
+9,Domingo,0,Lluvia ligera,Calle 100,855,10,0,Normal
+23,Domingo,0,Despejado,Calle 100,920,12,0,Normal
+18,Viernes,1,Despejado,Portal Américas,2714,4,0,Retraso_Moderado
+8,Lunes,1,Despejado,Portal Norte,3247,4,1,Retraso_Critico
+17,Viernes,1,Despejado,Portal El Dorado,3119,3,0,Retraso_Moderado
+14,Lunes,0,Despejado,Banderas,885,10,0,Normal
+22,Lunes,0,Despejado,Portal El Dorado,888,8,0,Normal
+12,Sábado,0,Despejado,Portal Américas,1598,8,0,Normal
+12,Martes,0,Despejado,Banderas,670,15,0,Normal
+11,Miércoles,0,Lluvia fuerte,Ricaurte,795,10,0,Retraso_Moderado
+12,Domingo,0,Lluvia fuerte,Portal Norte,1598,8,1,Retraso_Critico
+18,Miércoles,1,Lluvia ligera,Portal Américas,2557,4,0,Retraso_Critico
+23,Martes,0,Lluvia fuerte,Banderas,669,6,0,Normal
+10,Domingo,0,Lluvia ligera,Calle 100,1021,10,0,Retraso_Moderado
+5,Lunes,0,Despejado,Portal Norte,896,12,0,Normal
+19,Viernes,1,Despejado,Portal El Dorado,2249,4,0,Retraso_Moderado
+5,Domingo,0,Lluvia ligera,Portal El Dorado,1157,8,0,Normal
+21,Sábado,0,Lluvia ligera,Portal Norte,1607,6,1,Retraso_Critico
+5,Viernes,0,Lluvia ligera,Portal Américas,828,15,0,Retraso_Moderado
+19,Martes,1,Lluvia ligera,Calle 100,2614,4,0,Retraso_Moderado
+6,Martes,1,Despejado,Portal El Dorado,2302,4,0,Retraso_Moderado
+18,Sábado,0,Lluvia ligera,Calle 100,1134,6,0,Normal
+12,Sábado,0,Lluvia fuerte,Calle 100,1095,10,0,Retraso_Moderado
+12,Jueves,0,Despejado,Banderas,419,12,0,Normal
+23,Martes,0,Lluvia ligera,Portal Américas,1359,10,0,Normal
+11,Lunes,0,Despejado,Ricaurte,570,10,1,Retraso_Moderado
+23,Lunes,0,Lluvia ligera,Portal Américas,1012,6,0,Normal
+10,Viernes,0,Lluvia ligera,Calle 100,1304,6,0,Normal
+10,Miércoles,0,Despejado,Ricaurte,445,6,0,Normal
+7,Sábado,0,Lluvia ligera,Portal Norte,869,15,0,Normal
+11,Viernes,0,Despejado,Portal Américas,1504,10,0,Normal
+23,Martes,0,Lluvia ligera,Calle 100,1230,12,0,Normal
+12,Jueves,0,Despejado,Ricaurte,734,6,0,Normal
+14,Miércoles,0,Lluvia ligera,Héroes,931,15,0,Normal
+19,Jueves,1,Despejado,Héroes,2557,3,0,Retraso_Moderado
+19,Viernes,1,Lluvia ligera,Portal Américas,3652,4,0,Retraso_Critico
+5,Sábado,0,Despejado,Calle 100,921,12,0,Normal
+11,Sábado,0,Lluvia ligera,Portal Américas,943,8,0,Normal
+8,Martes,1,Lluvia fuerte,Banderas,2457,3,1,Retraso_Critico
+10,Lunes,0,Lluvia fuerte,Calle 100,1360,8,0,Retraso_Moderado
+5,Viernes,0,Lluvia ligera,Héroes,564,15,0,Normal
+9,Lunes,0,Lluvia ligera,Calle 100,953,15,0,Normal
+5,Martes,0,Despejado,Héroes,851,8,1,Retraso_Moderado
+8,Lunes,1,Despejado,Banderas,2418,4,0,Normal
+6,Viernes,1,Despejado,Portal El Dorado,2640,6,0,Retraso_Moderado
+14,Martes,0,Lluvia ligera,Calle 100,860,12,0,Retraso_Moderado
+9,Viernes,0,Lluvia fuerte,Portal Norte,1210,8,0,Retraso_Moderado
+14,Domingo,0,Despejado,Portal Américas,1020,10,0,Normal
+5,Lunes,0,Lluvia fuerte,Calle 100,908,10,1,Retraso_Critico
+10,Lunes,0,Lluvia ligera,Portal Norte,1197,6,0,Retraso_Moderado
+17,Miércoles,1,Lluvia ligera,Portal Américas,2601,4,1,Retraso_Critico
+19,Sábado,0,Despejado,Portal Américas,1400,10,0,Normal
+8,Martes,1,Despejado,Ricaurte,2005,3,0,Retraso_Moderado
+17,Miércoles,1,Despejado,Ricaurte,3109,4,0,Retraso_Moderado
+19,Lunes,1,Lluvia ligera,Portal Norte,3111,5,0,Retraso_Moderado
+12,Viernes,0,Despejado,Héroes,831,15,0,Normal
+9,Miércoles,0,Despejado,Calle 100,1315,8,0,Normal
+19,Viernes,1,Lluvia ligera,Portal Américas,2828,5,0,Retraso_Critico
+8,Sábado,0,Lluvia ligera,Portal Américas,1338,8,0,Normal
+16,Martes,0,Lluvia fuerte,Portal El Dorado,1101,12,0,Retraso_Critico
+17,Sábado,0,Despejado,Portal Norte,1088,12,0,Normal
+6,Lunes,1,Despejado,Portal Américas,2689,4,0,Retraso_Moderado
+23,Sábado,0,Lluvia ligera,Ricaurte,1367,6,0,Normal
+23,Viernes,0,Despejado,Calle 100,1083,10,0,Normal
+8,Sábado,0,Despejado,Ricaurte,1245,8,0,Normal
+8,Lunes,1,Despejado,Héroes,3118,3,0,Retraso_Moderado
+15,Martes,0,Despejado,Héroes,833,6,0,Normal
+9,Miércoles,0,Despejado,Portal Norte,1154,10,0,Normal
+15,Miércoles,0,Despejado,Calle 100,1229,10,0,Normal
+14,Martes,0,Despejado,Calle 100,1405,15,0,Retraso_Moderado
+12,Miércoles,0,Despejado,Portal Américas,1300,10,0,Normal
+10,Lunes,0,Lluvia ligera,Calle 100,1081,8,0,Normal
+10,Miércoles,0,Despejado,Calle 100,679,6,0,Normal
+12,Sábado,0,Lluvia ligera,Héroes,1068,10,0,Normal
+19,Miércoles,1,Despejado,Banderas,2536,4,0,Retraso_Moderado
+18,Lunes,1,Despejado,Portal Norte,2559,3,0,Retraso_Moderado
+15,Miércoles,0,Lluvia ligera,Calle 100,1099,10,0,Normal
+16,Lunes,0,Despejado,Portal Américas,896,10,0,Normal
+17,Domingo,0,Despejado,Calle 100,1279,8,0,Normal
+12,Lunes,0,Despejado,Ricaurte,825,8,0,Normal
+22,Viernes,0,Lluvia fuerte,Ricaurte,1096,8,0,Normal
+5,Domingo,0,Despejado,Banderas,498,6,1,Retraso_Moderado
+19,Sábado,0,Despejado,Portal El Dorado,734,10,0,Normal
+12,Viernes,0,Lluvia ligera,Ricaurte,901,8,0,Normal
+15,Sábado,0,Despejado,Ricaurte,910,8,0,Normal
+16,Domingo,0,Despejado,Calle 100,1373,6,0,Normal
+16,Jueves,0,Despejado,Ricaurte,671,6,0,Normal
+8,Jueves,1,Lluvia ligera,Portal Américas,2767,6,0,Retraso_Critico
+20,Jueves,0,Despejado,Portal Norte,1326,10,0,Normal
+8,Jueves,1,Despejado,Calle 100,3517,4,0,Retraso_Moderado
+9,Jueves,0,Despejado,Calle 100,1296,10,0,Normal
+9,Miércoles,0,Lluvia ligera,Héroes,1090,10,0,Normal
+12,Martes,0,Despejado,Calle 100,866,15,0,Normal
+14,Lunes,0,Lluvia fuerte,Calle 100,1121,6,0,Retraso_Moderado
+21,Lunes,0,Despejado,Portal Américas,1573,8,0,Normal
+13,Martes,0,Lluvia fuerte,Ricaurte,1064,8,0,Retraso_Moderado
+23,Lunes,0,Lluvia fuerte,Portal Norte,1311,8,0,Retraso_Moderado
+18,Jueves,1,Despejado,Héroes,2616,3,0,Retraso_Moderado
+12,Martes,0,Despejado,Banderas,1351,10,0,Normal
+13,Sábado,0,Despejado,Ricaurte,904,10,0,Normal
+15,Lunes,0,Despejado,Ricaurte,798,8,0,Normal
+5,Martes,0,Lluvia ligera,Portal Norte,1447,10,0,Retraso_Moderado
+18,Viernes,1,Despejado,Calle 100,2614,3,0,Normal
+9,Jueves,0,Despejado,Portal El Dorado,667,10,0,Normal
+18,Lunes,1,Despejado,Portal Norte,2639,5,0,Retraso_Moderado
+8,Sábado,0,Lluvia fuerte,Calle 100,1278,8,0,Normal
+5,Sábado,0,Despejado,Ricaurte,787,8,0,Normal
+23,Miércoles,0,Despejado,Calle 100,1106,12,0,Normal
+12,Miércoles,0,Despejado,Héroes,643,6,0,Normal
+19,Domingo,0,Lluvia fuerte,Portal Norte,1558,6,0,Retraso_Moderado
+19,Jueves,1,Lluvia ligera,Portal El Dorado,2147,3,0,Retraso_Moderado
+13,Jueves,0,Despejado,Portal Américas,1022,8,1,Retraso_Moderado
+13,Sábado,0,Despejado,Portal El Dorado,748,10,0,Retraso_Moderado
+14,Martes,0,Despejado,Calle 100,1400,10,0,Normal
+13,Miércoles,0,Despejado,Portal Américas,1343,12,0,Normal
+7,Martes,1,Lluvia fuerte,Banderas,2970,4,1,Retraso_Critico
+15,Viernes,0,Lluvia ligera,Portal Américas,1208,10,0,Normal
+10,Jueves,0,Despejado,Calle 100,1269,12,0,Normal
+6,Viernes,1,Lluvia ligera,Portal Américas,3331,3,0,Retraso_Moderado
+11,Martes,0,Despejado,Portal El Dorado,514,8,0,Normal
+22,Martes,0,Lluvia ligera,Portal Américas,1328,12,0,Retraso_Moderado
+6,Jueves,1,Lluvia ligera,Héroes,1594,3,1,Retraso_Critico
+21,Viernes,0,Despejado,Calle 100,1310,8,0,Normal
+15,Jueves,0,Lluvia ligera,Portal Américas,1280,6,0,Normal
+16,Lunes,0,Despejado,Portal El Dorado,913,6,0,Normal
+23,Sábado,0,Despejado,Ricaurte,793,6,0,Normal
+11,Lunes,0,Despejado,Banderas,741,8,0,Normal
+10,Domingo,0,Despejado,Héroes,615,10,0,Normal
+5,Lunes,0,Lluvia ligera,Portal Américas,1046,8,0,Normal
+21,Viernes,0,Lluvia fuerte,Portal Norte,1342,12,0,Retraso_Moderado
+15,Lunes,0,Lluvia ligera,Portal Norte,1549,8,0,Normal
+22,Domingo,0,Lluvia ligera,Portal El Dorado,1212,15,0,Retraso_Moderado
+21,Miércoles,0,Lluvia ligera,Banderas,936,15,0,Normal
+11,Lunes,0,Despejado,Calle 100,1549,12,0,Normal
+21,Miércoles,0,Despejado,Portal Norte,1123,15,0,Normal
+13,Martes,0,Despejado,Portal Norte,877,10,0,Normal
+21,Martes,0,Lluvia ligera,Banderas,1380,12,0,Retraso_Moderado
+12,Domingo,0,Lluvia fuerte,Calle 100,1333,8,0,Retraso_Critico
+21,Miércoles,0,Despejado,Portal Américas,816,8,0,Normal
+11,Viernes,0,Lluvia ligera,Portal Américas,1589,12,0,Retraso_Moderado
+5,Jueves,0,Lluvia ligera,Banderas,714,8,0,Normal
+17,Viernes,1,Despejado,Ricaurte,3145,6,0,Retraso_Critico
+23,Lunes,0,Despejado,Ricaurte,1155,12,0,Normal
+23,Martes,0,Despejado,Portal Norte,1540,8,0,Normal
+21,Viernes,0,Despejado,Portal Américas,949,12,0,Normal
+17,Domingo,0,Despejado,Portal El Dorado,1267,6,0,Normal
+20,Martes,0,Despejado,Héroes,1118,8,0,Normal
+12,Martes,0,Despejado,Calle 100,1000,10,0,Normal
+23,Miércoles,0,Despejado,Portal Norte,1138,8,0,Normal
+22,Domingo,0,Lluvia ligera,Portal Norte,1579,10,0,Retraso_Moderado
+5,Martes,0,Despejado,Portal Américas,809,10,0,Normal
+18,Miércoles,1,Lluvia ligera,Banderas,2501,4,0,Retraso_Critico
+23,Sábado,0,Despejado,Portal Norte,1411,12,0,Normal
+19,Lunes,1,Despejado,Portal Américas,3072,4,0,Retraso_Moderado
+22,Lunes,0,Lluvia fuerte,Calle 100,1232,8,1,Retraso_Critico
+6,Jueves,1,Despejado,Portal Norte,2927,3,0,Retraso_Moderado
+21,Sábado,0,Despejado,Portal Américas,1729,12,0,Normal
+22,Martes,0,Lluvia ligera,Calle 100,1046,12,0,Retraso_Moderado
+10,Miércoles,0,Despejado,Calle 100,1353,8,0,Normal
+23,Miércoles,0,Despejado,Portal El Dorado,1368,6,0,Normal
+8,Miércoles,1,Despejado,Portal Américas,2688,4,0,Retraso_Moderado
+5,Jueves,0,Despejado,Portal Norte,1260,10,0,Normal
+12,Miércoles,0,Despejado,Héroes,1150,6,0,Normal
+11,Miércoles,0,Despejado,Ricaurte,396,10,0,Normal
+7,Miércoles,1,Lluvia fuerte,Portal El Dorado,1652,4,0,Retraso_Critico
+14,Jueves,0,Lluvia ligera,Portal Norte,927,12,0,Retraso_Moderado
+14,Jueves,0,Lluvia ligera,Portal Norte,1248,8,0,Normal
+23,Sábado,0,Lluvia ligera,Portal Norte,1486,8,0,Normal
+18,Lunes,1,Lluvia ligera,Calle 100,2599,4,0,Retraso_Moderado
+6,Sábado,0,Despejado,Portal Américas,1396,15,0,Normal
+5,Sábado,0,Lluvia ligera,Héroes,1409,12,0,Normal
+22,Martes,0,Lluvia ligera,Portal Américas,1066,10,0,Normal
+11,Miércoles,0,Lluvia ligera,Calle 100,1344,10,0,Normal
+12,Miércoles,0,Despejado,Ricaurte,1233,8,0,Normal
+5,Martes,0,Despejado,Portal Norte,801,15,0,Normal
+7,Miércoles,1,Despejado,Ricaurte,2465,5,0,Retraso_Moderado
+12,Lunes,0,Lluvia ligera,Ricaurte,1155,12,0,Retraso_Moderado
+19,Martes,1,Despejado,Portal El Dorado,2505,4,0,Retraso_Moderado
+9,Sábado,0,Lluvia ligera,Héroes,921,8,0,Normal
+7,Martes,1,Despejado,Calle 100,2565,4,0,Retraso_Moderado
+23,Sábado,0,Despejado,Portal Américas,1547,12,0,Retraso_Moderado
+5,Jueves,0,Despejado,Banderas,908,12,0,Normal
+19,Sábado,0,Despejado,Portal El Dorado,674,10,0,Normal
+12,Jueves,0,Despejado,Portal Américas,1120,8,0,Normal
+6,Lunes,1,Despejado,Héroes,2768,4,0,Retraso_Moderado
+7,Viernes,1,Lluvia fuerte,Portal Norte,3801,4,1,Retraso_Critico
+18,Lunes,1,Despejado,Héroes,2497,4,0,Retraso_Moderado
+18,Miércoles,1,Despejado,Portal Norte,2880,4,0,Retraso_Moderado
+15,Domingo,0,Lluvia ligera,Ricaurte,1234,8,0,Normal
+20,Martes,0,Lluvia fuerte,Banderas,431,6,0,Retraso_Moderado
+8,Miércoles,1,Lluvia ligera,Calle 100,2768,3,1,Retraso_Critico
+9,Viernes,0,Despejado,Portal Américas,1554,8,0,Normal
+18,Sábado,0,Lluvia fuerte,Calle 100,740,6,0,Retraso_Moderado
+20,Viernes,0,Lluvia ligera,Héroes,470,6,0,Normal
+22,Martes,0,Despejado,Banderas,1346,8,0,Normal
+11,Viernes,0,Despejado,Portal El Dorado,673,10,0,Retraso_Moderado
+14,Martes,0,Despejado,Ricaurte,1673,12,0,Normal
+11,Viernes,0,Despejado,Banderas,448,6,0,Normal
+5,Domingo,0,Lluvia ligera,Portal Américas,1242,8,0,Normal
+23,Viernes,0,Despejado,Portal Américas,1194,8,0,Normal
+20,Sábado,0,Lluvia fuerte,Portal El Dorado,847,10,1,Retraso_Critico
+23,Lunes,0,Despejado,Calle 100,1315,12,0,Normal
+8,Viernes,1,Despejado,Portal Norte,2445,4,0,Retraso_Moderado
+22,Sábado,0,Despejado,Portal Norte,1158,12,0,Normal
+6,Lunes,1,Despejado,Portal Norte,2925,3,1,Retraso_Critico
+5,Sábado,0,Lluvia ligera,Banderas,1161,10,0,Normal
+19,Martes,1,Lluvia ligera,Portal Américas,2973,6,0,Retraso_Critico
+9,Viernes,0,Despejado,Portal El Dorado,928,12,0,Normal
+15,Sábado,0,Despejado,Portal Américas,1349,15,0,Retraso_Moderado
+14,Viernes,0,Despejado,Calle 100,1392,10,1,Retraso_Critico
+6,Lunes,1,Lluvia ligera,Calle 100,2908,5,0,Retraso_Critico
+7,Jueves,1,Despejado,Portal El Dorado,2346,3,0,Retraso_Moderado
+16,Jueves,0,Despejado,Ricaurte,761,15,0,Retraso_Moderado
+9,Sábado,0,Lluvia ligera,Héroes,1100,6,0,Normal
+9,Miércoles,0,Lluvia fuerte,Ricaurte,851,8,0,Retraso_Moderado
+10,Miércoles,0,Despejado,Ricaurte,1052,6,0,Normal
+13,Viernes,0,Despejado,Ricaurte,791,15,0,Normal
+6,Miércoles,1,Lluvia ligera,Héroes,2466,5,0,Retraso_Moderado
+16,Viernes,0,Lluvia ligera,Portal El Dorado,655,15,0,Retraso_Moderado
+7,Viernes,1,Despejado,Portal Norte,2878,3,0,Retraso_Moderado
+16,Sábado,0,Lluvia fuerte,Portal Américas,1445,8,0,Retraso_Moderado
+21,Jueves,0,Lluvia ligera,Ricaurte,1016,15,0,Normal
+14,Jueves,0,Despejado,Portal El Dorado,948,15,0,Normal
+18,Lunes,1,Despejado,Calle 100,3271,3,1,Retraso_Critico
+21,Lunes,0,Despejado,Banderas,1155,6,0,Normal
+22,Lunes,0,Lluvia ligera,Héroes,1113,10,0,Normal
+23,Martes,0,Despejado,Calle 100,1364,15,0,Retraso_Moderado
+21,Jueves,0,Lluvia ligera,Banderas,1095,12,0,Retraso_Moderado
+18,Viernes,1,Lluvia ligera,Portal Norte,3137,5,0,Retraso_Critico
+13,Jueves,0,Despejado,Portal Norte,1095,15,0,Retraso_Moderado
+12,Sábado,0,Lluvia ligera,Portal Norte,1452,12,0,Retraso_Moderado
+6,Domingo,0,Lluvia fuerte,Portal Norte,1289,12,0,Retraso_Moderado
+17,Sábado,0,Despejado,Banderas,804,10,0,Normal
+11,Viernes,0,Despejado,Portal Norte,1175,8,1,Retraso_Moderado
+13,Jueves,0,Despejado,Calle 100,1254,10,0,Normal
+15,Miércoles,0,Lluvia fuerte,Portal Norte,985,10,0,Retraso_Moderado
+18,Lunes,1,Lluvia fuerte,Calle 100,2930,5,0,Retraso_Critico
+8,Miércoles,1,Despejado,Portal Norte,3296,3,0,Retraso_Moderado
+17,Domingo,0,Lluvia ligera,Ricaurte,921,6,0,Normal
+6,Sábado,0,Despejado,Portal Norte,1539,6,0,Normal
+9,Martes,0,Despejado,Banderas,932,10,0,Normal
+15,Miércoles,0,Despejado,Portal El Dorado,1288,10,0,Normal
+10,Sábado,0,Despejado,Portal Norte,1068,8,0,Normal
+22,Lunes,0,Despejado,Banderas,625,6,0,Normal
+14,Miércoles,0,Despejado,Portal Norte,1127,8,0,Normal
+8,Sábado,0,Despejado,Calle 100,496,6,0,Normal
+13,Miércoles,0,Lluvia fuerte,Portal Norte,1426,8,1,Retraso_Critico
+10,Lunes,0,Despejado,Calle 100,940,8,0,Normal
+6,Jueves,1,Despejado,Portal Américas,2418,3,0,Retraso_Moderado
+21,Sábado,0,Despejado,Portal El Dorado,1079,8,0,Normal
+9,Jueves,0,Lluvia ligera,Calle 100,1229,8,0,Normal
+10,Martes,0,Despejado,Portal El Dorado,789,12,0,Retraso_Moderado
+16,Miércoles,0,Despejado,Calle 100,690,8,0,Normal
+14,Miércoles,0,Lluvia fuerte,Portal El Dorado,1225,8,0,Retraso_Moderado
+10,Jueves,0,Despejado,Calle 100,1380,6,0,Normal
+12,Viernes,0,Despejado,Portal Norte,1713,8,0,Retraso_Moderado
+6,Lunes,1,Lluvia ligera,Calle 100,2841,5,0,Retraso_Moderado
+16,Sábado,0,Despejado,Calle 100,836,6,0,Normal
+17,Lunes,1,Despejado,Portal Américas,1898,4,0,Retraso_Moderado
+11,Miércoles,0,Despejado,Banderas,852,10,0,Normal
+14,Lunes,0,Despejado,Portal Norte,1357,10,0,Normal
+17,Miércoles,1,Despejado,Portal El Dorado,2181,4,0,Retraso_Moderado
+21,Jueves,0,Despejado,Ricaurte,997,6,0,Normal
+18,Jueves,1,Despejado,Banderas,1744,4,0,Retraso_Moderado
+6,Martes,1,Despejado,Calle 100,2277,3,0,Retraso_Moderado
+15,Viernes,0,Lluvia ligera,Portal Américas,790,10,0,Normal
+5,Lunes,0,Despejado,Héroes,1177,6,0,Normal
+23,Viernes,0,Despejado,Ricaurte,1193,12,0,Normal
+8,Domingo,0,Lluvia fuerte,Portal Américas,1332,10,0,Retraso_Moderado
+23,Miércoles,0,Lluvia ligera,Portal Norte,821,6,0,Normal
+15,Jueves,0,Despejado,Calle 100,1169,10,0,Normal
+12,Miércoles,0,Lluvia fuerte,Ricaurte,1259,6,1,Retraso_Critico
+15,Lunes,0,Despejado,Portal El Dorado,758,12,0,Normal
+8,Miércoles,1,Despejado,Portal Norte,2505,4,0,Retraso_Moderado
+21,Viernes,0,Lluvia ligera,Ricaurte,913,8,0,Normal
+11,Jueves,0,Despejado,Ricaurte,1078,8,0,Normal
+12,Lunes,0,Despejado,Portal Américas,1096,6,0,Normal
+7,Sábado,0,Despejado,Ricaurte,921,10,0,Normal
+6,Jueves,1,Despejado,Banderas,2402,3,0,Retraso_Moderado
+19,Sábado,0,Despejado,Calle 100,929,10,0,Normal
+9,Jueves,0,Lluvia fuerte,Banderas,968,15,1,Retraso_Critico
+5,Jueves,0,Despejado,Portal Norte,527,8,0,Normal
+8,Lunes,1,Lluvia fuerte,Portal Norte,2617,3,0,Retraso_Critico
+19,Martes,1,Despejado,Calle 100,3396,6,0,Retraso_Moderado
+23,Domingo,0,Lluvia ligera,Portal Norte,1480,8,0,Retraso_Moderado
+7,Martes,1,Lluvia ligera,Calle 100,2997,4,0,Retraso_Moderado
+15,Domingo,0,Lluvia ligera,Portal Norte,852,10,0,Normal
+21,Jueves,0,Despejado,Banderas,1158,8,0,Retraso_Moderado
+17,Lunes,1,Despejado,Portal Norte,3412,4,0,Retraso_Moderado
+15,Lunes,0,Despejado,Portal El Dorado,1053,6,0,Normal
+6,Martes,1,Lluvia ligera,Portal Norte,2858,6,1,Retraso_Critico
+13,Domingo,0,Lluvia ligera,Héroes,706,10,0,Normal
+6,Miércoles,1,Despejado,Portal El Dorado,1743,6,0,Retraso_Moderado
+13,Miércoles,0,Despejado,Portal Norte,1234,6,0,Normal
+13,Martes,0,Despejado,Portal El Dorado,851,12,0,Normal
+12,Lunes,0,Lluvia ligera,Portal Américas,1327,15,0,Normal
+21,Jueves,0,Despejado,Portal El Dorado,895,6,0,Normal
+5,Lunes,0,Lluvia ligera,Portal Américas,820,6,0,Normal
+15,Sábado,0,Lluvia fuerte,Ricaurte,968,12,0,Normal
+12,Miércoles,0,Despejado,Portal El Dorado,459,12,0,Normal
+14,Miércoles,0,Despejado,Portal Américas,979,10,0,Normal
+11,Miércoles,0,Despejado,Portal Norte,1109,15,0,Normal
+7,Miércoles,1,Despejado,Banderas,2700,4,0,Retraso_Moderado
+7,Domingo,0,Despejado,Portal Américas,788,8,0,Normal
+22,Jueves,0,Despejado,Portal Américas,1542,10,0,Normal
+9,Lunes,0,Lluvia fuerte,Portal Norte,1612,10,0,Retraso_Moderado
+16,Jueves,0,Despejado,Portal Américas,1762,15,0,Normal
+16,Lunes,0,Despejado,Héroes,1186,8,0,Normal
+23,Lunes,0,Lluvia fuerte,Calle 100,1101,10,0,Retraso_Moderado
+10,Domingo,0,Lluvia ligera,Portal Américas,1096,12,0,Normal
+6,Viernes,1,Despejado,Ricaurte,1992,5,0,Retraso_Moderado
+16,Domingo,0,Despejado,Portal El Dorado,1396,8,0,Normal
+23,Miércoles,0,Despejado,Portal Américas,1171,12,0,Normal
+9,Jueves,0,Lluvia ligera,Calle 100,1517,8,0,Retraso_Moderado
+16,Martes,0,Lluvia ligera,Héroes,1197,10,0,Normal
+21,Martes,0,Lluvia ligera,Ricaurte,947,12,0,Normal
+21,Sábado,0,Despejado,Portal Norte,837,8,0,Normal
+14,Miércoles,0,Lluvia ligera,Portal Norte,1176,15,0,Normal
+21,Sábado,0,Despejado,Portal Américas,1236,10,0,Normal
+19,Viernes,1,Despejado,Calle 100,3295,3,0,Retraso_Moderado
+16,Martes,0,Despejado,Calle 100,1204,8,0,Normal
+20,Jueves,0,Despejado,Banderas,597,15,0,Normal
+23,Viernes,0,Despejado,Portal Norte,1446,8,0,Retraso_Moderado
+12,Martes,0,Lluvia ligera,Portal El Dorado,843,8,0,Normal
+21,Sábado,0,Lluvia fuerte,Calle 100,563,8,1,Retraso_Moderado
+9,Jueves,0,Despejado,Portal El Dorado,981,8,1,Retraso_Moderado
+20,Martes,0,Despejado,Portal El Dorado,1025,8,0,Normal
+10,Jueves,0,Despejado,Portal Norte,989,15,0,Normal
+12,Domingo,0,Despejado,Portal Américas,1151,12,0,Normal
+22,Lunes,0,Despejado,Portal Norte,1364,8,0,Retraso_Moderado
+16,Sábado,0,Lluvia fuerte,Banderas,982,8,0,Retraso_Moderado
+19,Martes,1,Despejado,Banderas,2749,4,0,Retraso_Moderado
+13,Viernes,0,Despejado,Portal Américas,1513,6,0,Retraso_Moderado
+17,Viernes,1,Despejado,Portal Américas,2760,3,0,Retraso_Moderado
+19,Martes,1,Lluvia ligera,Calle 100,2511,3,0,Retraso_Critico
+14,Miércoles,0,Lluvia ligera,Portal El Dorado,422,12,0,Normal
+20,Viernes,0,Lluvia fuerte,Calle 100,1392,8,0,Retraso_Moderado
+11,Miércoles,0,Lluvia ligera,Calle 100,1031,8,0,Normal
+21,Viernes,0,Despejado,Portal Américas,1333,6,0,Normal
+11,Lunes,0,Despejado,Portal Norte,1750,8,0,Normal
+18,Sábado,0,Lluvia ligera,Portal El Dorado,513,8,0,Normal
+19,Viernes,1,Despejado,Portal Norte,2765,4,0,Retraso_Critico
+11,Sábado,0,Despejado,Ricaurte,851,12,0,Normal
+13,Lunes,0,Despejado,Calle 100,1522,15,0,Retraso_Moderado
+23,Jueves,0,Despejado,Calle 100,2088,12,0,Normal
+20,Jueves,0,Despejado,Ricaurte,961,6,0,Normal
+12,Miércoles,0,Despejado,Héroes,491,10,0,Normal
+22,Miércoles,0,Lluvia ligera,Portal El Dorado,813,6,0,Normal
+22,Lunes,0,Despejado,Calle 100,1006,8,0,Normal
+11,Viernes,0,Despejado,Portal Norte,1380,10,0,Normal
+7,Jueves,1,Despejado,Banderas,1504,3,0,Retraso_Moderado
+22,Lunes,0,Despejado,Portal Américas,939,10,0,Normal
+14,Viernes,0,Despejado,Portal Norte,991,6,1,Retraso_Moderado
+11,Miércoles,0,Despejado,Banderas,809,6,0,Normal
+21,Lunes,0,Despejado,Portal El Dorado,840,6,0,Normal
+18,Domingo,0,Despejado,Héroes,889,6,0,Normal
+7,Domingo,0,Despejado,Banderas,912,6,0,Normal
+16,Jueves,0,Despejado,Banderas,1208,10,0,Retraso_Moderado
+17,Lunes,1,Despejado,Portal Norte,2657,3,1,Retraso_Critico
+6,Viernes,1,Despejado,Portal Norte,2498,4,1,Retraso_Critico
+7,Jueves,1,Despejado,Ricaurte,2354,3,0,Retraso_Moderado
+9,Martes,0,Lluvia ligera,Portal Américas,1144,8,0,Normal
+15,Jueves,0,Despejado,Portal Américas,1264,15,1,Retraso_Critico
+12,Jueves,0,Despejado,Portal Américas,768,8,0,Normal
+16,Jueves,0,Despejado,Portal Américas,1114,12,0,Normal
+11,Miércoles,0,Lluvia ligera,Ricaurte,1190,15,0,Normal
+19,Jueves,1,Lluvia ligera,Portal Norte,3125,4,1,Retraso_Critico
+21,Domingo,0,Lluvia ligera,Calle 100,1293,6,0,Normal
+8,Miércoles,1,Lluvia ligera,Portal Américas,2667,3,0,Retraso_Moderado
+17,Viernes,1,Despejado,Portal El Dorado,2413,4,0,Retraso_Moderado
+22,Sábado,0,Lluvia ligera,Portal Norte,1023,6,0,Normal
+5,Miércoles,0,Despejado,Ricaurte,1217,6,0,Normal
+20,Miércoles,0,Despejado,Portal El Dorado,1107,15,0,Retraso_Moderado
+17,Jueves,1,Despejado,Portal Américas,2336,4,0,Retraso_Moderado
+14,Jueves,0,Despejado,Portal Norte,730,8,0,Normal
+16,Sábado,0,Lluvia fuerte,Portal Américas,1018,10,0,Retraso_Moderado
+6,Miércoles,1,Despejado,Calle 100,2387,4,0,Retraso_Moderado
+7,Domingo,0,Lluvia ligera,Héroes,735,8,0,Normal
+14,Lunes,0,Despejado,Portal Norte,1282,8,0,Normal
+6,Lunes,1,Despejado,Ricaurte,2130,5,0,Retraso_Moderado
+17,Viernes,1,Despejado,Portal Norte,3238,4,0,Retraso_Moderado
+17,Martes,1,Despejado,Portal Américas,3077,4,0,Retraso_Moderado
+22,Martes,0,Lluvia ligera,Ricaurte,1071,12,0,Normal
+7,Martes,1,Despejado,Calle 100,3112,4,0,Retraso_Critico
+11,Martes,0,Despejado,Portal Américas,1006,8,0,Normal
+18,Lunes,1,Lluvia ligera,Portal Norte,3012,4,0,Retraso_Moderado
+21,Domingo,0,Despejado,Calle 100,1209,6,0,Normal
+16,Martes,0,Lluvia fuerte,Ricaurte,930,8,0,Retraso_Moderado
+20,Viernes,0,Despejado,Calle 100,1208,6,0,Normal
+16,Viernes,0,Despejado,Banderas,1144,12,1,Retraso_Moderado
+19,Domingo,0,Despejado,Ricaurte,1008,8,0,Normal
+14,Lunes,0,Despejado,Portal Américas,1312,12,0,Normal
+11,Sábado,0,Despejado,Portal Norte,1505,15,0,Normal
+9,Jueves,0,Lluvia ligera,Portal Américas,1601,12,0,Retraso_Moderado
+5,Jueves,0,Lluvia ligera,Portal El Dorado,1460,15,0,Retraso_Moderado
+21,Viernes,0,Lluvia ligera,Calle 100,1055,10,0,Retraso_Moderado
+7,Sábado,0,Despejado,Portal El Dorado,1517,6,0,Normal
+17,Miércoles,1,Despejado,Calle 100,2814,4,0,Retraso_Moderado
+18,Viernes,1,Despejado,Banderas,2576,3,0,Normal
+22,Jueves,0,Despejado,Portal Norte,1041,12,0,Normal
+8,Viernes,1,Lluvia ligera,Banderas,2237,4,0,Retraso_Moderado
+22,Domingo,0,Despejado,Portal Américas,1204,10,0,Normal
+9,Martes,0,Despejado,Calle 100,983,6,0,Normal
+20,Domingo,0,Despejado,Calle 100,1221,10,0,Normal
+5,Lunes,0,Lluvia fuerte,Portal Américas,996,6,0,Retraso_Moderado
+18,Lunes,1,Despejado,Héroes,2081,4,0,Retraso_Moderado
+19,Lunes,1,Despejado,Calle 100,3128,3,0,Retraso_Moderado
+13,Miércoles,0,Despejado,Portal Norte,1597,8,0,Normal
+19,Jueves,1,Despejado,Ricaurte,2508,5,0,Retraso_Moderado
+21,Lunes,0,Despejado,Portal Américas,1435,12,0,Normal
+8,Lunes,1,Despejado,Portal Américas,3021,3,1,Retraso_Critico
+16,Domingo,0,Lluvia ligera,Ricaurte,579,10,1,Retraso_Critico
+9,Sábado,0,Despejado,Calle 100,1313,10,0,Normal
+9,Sábado,0,Lluvia ligera,Banderas,1338,15,0,Normal
+15,Sábado,0,Lluvia fuerte,Portal Américas,1252,6,0,Retraso_Moderado
+10,Viernes,0,Lluvia ligera,Portal Norte,1406,10,0,Normal
+11,Lunes,0,Despejado,Portal El Dorado,1273,6,0,Normal
+18,Miércoles,1,Despejado,Ricaurte,2471,4,0,Retraso_Moderado
+15,Viernes,0,Lluvia ligera,Calle 100,1161,10,0,Normal
+17,Martes,1,Lluvia ligera,Ricaurte,2584,4,0,Retraso_Moderado
+6,Viernes,1,Despejado,Calle 100,2940,3,0,Retraso_Critico
+11,Lunes,0,Lluvia ligera,Portal Américas,850,8,0,Normal
+8,Martes,1,Despejado,Banderas,3152,5,0,Retraso_Moderado
+12,Jueves,0,Despejado,Portal Norte,1199,10,0,Normal
+23,Jueves,0,Despejado,Portal Américas,1002,10,0,Normal
+17,Jueves,1,Despejado,Banderas,2588,5,0,Retraso_Moderado
+18,Viernes,1,Despejado,Héroes,2872,4,0,Retraso_Moderado
+14,Lunes,0,Lluvia ligera,Portal Américas,822,6,0,Retraso_Moderado
+15,Lunes,0,Despejado,Portal Américas,1216,6,0,Normal
+6,Sábado,0,Despejado,Ricaurte,1125,10,0,Normal
+13,Viernes,0,Despejado,Héroes,813,10,0,Normal
+21,Lunes,0,Despejado,Banderas,659,6,0,Normal
+7,Sábado,0,Despejado,Portal Norte,998,6,0,Normal
+10,Martes,0,Lluvia ligera,Portal Américas,1337,10,0,Normal
+9,Miércoles,0,Lluvia ligera,Portal Américas,1616,8,0,Retraso_Moderado
+9,Lunes,0,Lluvia ligera,Portal El Dorado,1092,8,0,Normal
+19,Viernes,1,Lluvia ligera,Ricaurte,2445,3,1,Retraso_Critico
+21,Viernes,0,Despejado,Ricaurte,638,6,0,Normal
+13,Martes,0,Despejado,Héroes,881,6,0,Normal
+7,Sábado,0,Despejado,Portal Norte,1454,12,0,Normal
+21,Miércoles,0,Despejado,Calle 100,850,10,0,Normal
+14,Martes,0,Lluvia fuerte,Portal Américas,1035,10,0,Retraso_Moderado
+7,Lunes,1,Despejado,Calle 100,2633,4,0,Retraso_Moderado
+22,Martes,0,Despejado,Portal Norte,1264,10,0,Normal
+22,Lunes,0,Lluvia fuerte,Portal Norte,958,15,0,Retraso_Critico
+21,Jueves,0,Lluvia fuerte,Ricaurte,492,10,0,Retraso_Moderado
+7,Sábado,0,Lluvia ligera,Banderas,1234,8,0,Normal
+7,Jueves,1,Despejado,Portal Américas,3638,4,0,Retraso_Moderado
+10,Martes,0,Despejado,Portal Américas,1358,8,0,Normal
+17,Lunes,1,Despejado,Calle 100,2366,6,0,Retraso_Moderado
+19,Martes,1,Despejado,Portal El Dorado,2571,5,1,Retraso_Critico
+13,Miércoles,0,Despejado,Portal El Dorado,639,12,0,Normal
+8,Viernes,1,Despejado,Ricaurte,3188,3,1,Retraso_Critico
+18,Martes,1,Lluvia fuerte,Calle 100,2879,3,0,Retraso_Critico
+9,Viernes,0,Despejado,Portal Norte,1341,6,0,Normal
+6,Sábado,0,Lluvia ligera,Portal Norte,1006,8,0,Normal
+15,Miércoles,0,Lluvia ligera,Ricaurte,866,6,0,Normal
+13,Sábado,0,Despejado,Banderas,873,8,0,Normal
+7,Jueves,1,Lluvia ligera,Banderas,2652,3,0,Retraso_Moderado
+13,Jueves,0,Despejado,Portal Américas,1300,8,0,Normal
+7,Jueves,1,Despejado,Portal El Dorado,2955,5,0,Retraso_Critico
+6,Miércoles,1,Lluvia ligera,Héroes,2525,4,0,Retraso_Critico
+16,Martes,0,Despejado,Calle 100,1357,8,0,Normal
+14,Martes,0,Lluvia fuerte,Portal Américas,852,6,1,Retraso_Critico
+13,Martes,0,Despejado,Héroes,1412,10,0,Normal
+19,Jueves,1,Despejado,Calle 100,2675,6,0,Retraso_Critico
+12,Lunes,0,Despejado,Banderas,890,10,0,Normal
+9,Domingo,0,Despejado,Héroes,1282,6,0,Normal
+15,Viernes,0,Despejado,Ricaurte,1383,10,1,Retraso_Critico
+6,Miércoles,1,Lluvia ligera,Portal El Dorado,2360,3,0,Retraso_Moderado
+19,Lunes,1,Lluvia ligera,Portal El Dorado,2548,6,0,Retraso_Critico
+10,Sábado,0,Lluvia ligera,Ricaurte,931,8,0,Normal
+12,Sábado,0,Despejado,Calle 100,1241,8,0,Normal
+9,Viernes,0,Lluvia ligera,Portal Norte,1250,12,0,Retraso_Moderado
+20,Martes,0,Lluvia ligera,Calle 100,892,8,0,Normal
+22,Miércoles,0,Lluvia ligera,Ricaurte,1215,10,0,Normal
+10,Lunes,0,Despejado,Portal Norte,1233,12,0,Normal
+9,Martes,0,Lluvia ligera,Portal Norte,1019,10,0,Retraso_Moderado
+20,Viernes,0,Lluvia ligera,Portal Norte,1075,8,0,Normal
+17,Viernes,1,Despejado,Portal El Dorado,2544,3,0,Retraso_Moderado
+9,Jueves,0,Lluvia ligera,Héroes,549,10,0,Normal
+17,Sábado,0,Despejado,Héroes,1119,12,0,Normal
+21,Jueves,0,Despejado,Portal Américas,1258,15,0,Normal
+22,Miércoles,0,Despejado,Banderas,1291,15,0,Normal
+12,Miércoles,0,Despejado,Portal El Dorado,919,12,0,Normal
+17,Domingo,0,Despejado,Portal Américas,928,10,0,Normal
+23,Lunes,0,Lluvia ligera,Ricaurte,600,12,0,Retraso_Moderado
+7,Domingo,0,Despejado,Portal Norte,1102,8,0,Normal
+12,Sábado,0,Lluvia ligera,Héroes,828,10,0,Retraso_Moderado
+6,Lunes,1,Lluvia ligera,Calle 100,3081,6,0,Retraso_Moderado
+12,Jueves,0,Despejado,Portal Américas,1232,8,0,Normal
+17,Sábado,0,Lluvia ligera,Ricaurte,751,12,0,Normal
+17,Jueves,1,Lluvia fuerte,Calle 100,2642,3,1,Retraso_Critico
+5,Sábado,0,Lluvia ligera,Calle 100,1069,8,0,Retraso_Moderado
+10,Domingo,0,Lluvia ligera,Ricaurte,1057,8,0,Normal
+23,Miércoles,0,Lluvia fuerte,Portal Norte,1122,12,0,Retraso_Moderado
+20,Miércoles,0,Lluvia ligera,Portal El Dorado,1211,10,0,Normal
+12,Domingo,0,Despejado,Portal Américas,1363,10,0,Normal
+5,Viernes,0,Lluvia ligera,Ricaurte,948,8,0,Retraso_Moderado
+20,Lunes,0,Lluvia ligera,Ricaurte,848,8,0,Normal
+13,Lunes,0,Despejado,Portal Américas,820,6,0,Normal
+17,Jueves,1,Despejado,Ricaurte,2223,4,0,Retraso_Moderado
+15,Domingo,0,Lluvia ligera,Ricaurte,729,12,0,Retraso_Moderado
+17,Sábado,0,Despejado,Portal El Dorado,922,8,0,Normal
+14,Viernes,0,Lluvia fuerte,Portal El Dorado,985,8,1,Retraso_Critico
+8,Lunes,1,Despejado,Banderas,1472,3,0,Retraso_Moderado
+10,Martes,0,Despejado,Calle 100,1538,8,0,Normal
+11,Sábado,0,Despejado,Portal Américas,894,6,0,Normal
+9,Martes,0,Despejado,Héroes,1333,10,0,Retraso_Moderado
+15,Martes,0,Lluvia ligera,Portal Américas,1367,10,0,Retraso_Moderado
+17,Lunes,1,Lluvia fuerte,Portal Norte,2863,4,1,Retraso_Critico
+23,Viernes,0,Lluvia ligera,Portal Américas,1141,10,0,Normal
+14,Domingo,0,Despejado,Portal Norte,645,8,0,Normal
+14,Martes,0,Despejado,Calle 100,987,10,1,Retraso_Moderado
+15,Miércoles,0,Lluvia ligera,Héroes,811,10,0,Normal
+11,Jueves,0,Lluvia fuerte,Ricaurte,944,6,0,Retraso_Moderado
+22,Domingo,0,Despejado,Calle 100,1514,10,0,Normal
+8,Lunes,1,Despejado,Héroes,3127,5,0,Retraso_Moderado
+6,Jueves,1,Despejado,Héroes,2741,5,1,Retraso_Critico
+18,Miércoles,1,Lluvia fuerte,Portal Américas,2004,5,0,Retraso_Critico
+17,Sábado,0,Lluvia ligera,Calle 100,1077,12,0,Retraso_Moderado
+16,Miércoles,0,Despejado,Banderas,471,10,0,Normal
+11,Lunes,0,Despejado,Portal El Dorado,748,10,0,Normal
+6,Jueves,1,Lluvia fuerte,Ricaurte,2124,6,0,Retraso_Critico
+17,Viernes,1,Despejado,Banderas,2629,4,0,Retraso_Moderado
+18,Lunes,1,Despejado,Ricaurte,2544,4,0,Retraso_Moderado
+21,Sábado,0,Despejado,Calle 100,1255,10,0,Normal
+13,Martes,0,Despejado,Ricaurte,754,15,0,Normal
+21,Jueves,0,Despejado,Calle 100,704,8,1,Retraso_Moderado
+12,Miércoles,0,Lluvia ligera,Portal El Dorado,419,8,0,Normal
+6,Viernes,1,Lluvia fuerte,Ricaurte,2202,4,0,Retraso_Moderado
+17,Miércoles,1,Lluvia ligera,Portal Norte,2215,6,0,Retraso_Moderado
+7,Sábado,0,Lluvia fuerte,Portal Américas,1448,8,0,Retraso_Moderado
+20,Viernes,0,Despejado,Calle 100,1441,8,0,Normal
+10,Viernes,0,Lluvia ligera,Calle 100,1398,8,0,Normal
+23,Viernes,0,Despejado,Ricaurte,771,8,0,Normal
+11,Viernes,0,Lluvia ligera,Calle 100,1486,8,0,Retraso_Moderado
+14,Lunes,0,Lluvia fuerte,Portal El Dorado,667,15,1,Retraso_Critico
+13,Miércoles,0,Despejado,Portal Norte,1413,12,0,Retraso_Moderado
+6,Domingo,0,Despejado,Ricaurte,481,6,0,Normal
+19,Lunes,1,Despejado,Portal El Dorado,2325,5,0,Retraso_Moderado
+9,Viernes,0,Despejado,Ricaurte,1313,10,0,Normal
+8,Domingo,0,Despejado,Portal Américas,1149,12,0,Normal
+8,Lunes,1,Lluvia ligera,Héroes,2401,3,0,Retraso_Moderado
+22,Viernes,0,Lluvia fuerte,Calle 100,1475,8,1,Retraso_Critico
+8,Miércoles,1,Despejado,Portal Norte,3042,3,0,Retraso_Critico
+21,Jueves,0,Despejado,Portal Américas,1091,8,0,Normal
+16,Lunes,0,Despejado,Portal Norte,1269,15,0,Normal
+21,Lunes,0,Lluvia fuerte,Héroes,934,12,0,Retraso_Moderado
+14,Viernes,0,Despejado,Calle 100,493,15,0,Normal
+5,Sábado,0,Despejado,Portal El Dorado,551,8,0,Normal
+22,Viernes,0,Despejado,Portal El Dorado,1135,8,0,Normal
+22,Jueves,0,Despejado,Calle 100,991,8,0,Normal
+18,Lunes,1,Despejado,Ricaurte,3284,3,0,Retraso_Moderado
+19,Viernes,1,Lluvia ligera,Portal Norte,2963,3,1,Retraso_Critico
+16,Martes,0,Despejado,Portal Américas,1503,10,0,Normal
+8,Domingo,0,Lluvia ligera,Portal Norte,859,8,0,Normal
+7,Sábado,0,Despejado,Héroes,998,8,0,Normal
+16,Viernes,0,Lluvia ligera,Héroes,883,6,0,Normal
+11,Domingo,0,Lluvia ligera,Calle 100,1002,10,0,Normal
+15,Lunes,0,Despejado,Calle 100,1000,12,0,Normal
+5,Viernes,0,Despejado,Portal El Dorado,956,6,1,Retraso_Moderado
+10,Miércoles,0,Despejado,Calle 100,1357,12,0,Retraso_Moderado
+19,Sábado,0,Lluvia ligera,Banderas,915,10,0,Normal
+19,Martes,1,Despejado,Ricaurte,3089,3,0,Retraso_Critico
+23,Viernes,0,Lluvia fuerte,Calle 100,1075,10,0,Retraso_Moderado
+15,Sábado,0,Despejado,Banderas,791,8,0,Normal
+6,Lunes,1,Lluvia ligera,Portal Américas,2135,4,1,Retraso_Critico
+18,Miércoles,1,Lluvia ligera,Banderas,3422,3,0,Retraso_Moderado
+6,Viernes,1,Lluvia ligera,Héroes,2415,4,1,Retraso_Critico
+8,Miércoles,1,Despejado,Portal Norte,2494,5,0,Retraso_Moderado
+21,Martes,0,Despejado,Portal Norte,881,6,0,Normal
+7,Martes,1,Lluvia ligera,Héroes,2878,5,0,Retraso_Moderado
+17,Lunes,1,Despejado,Banderas,2973,4,0,Retraso_Moderado
+13,Sábado,0,Despejado,Portal Norte,1183,10,0,Normal
+11,Jueves,0,Despejado,Banderas,479,6,0,Normal
+19,Lunes,1,Despejado,Portal Américas,2275,3,0,Retraso_Moderado
+15,Miércoles,0,Despejado,Calle 100,853,8,1,Retraso_Moderado
+6,Miércoles,1,Despejado,Banderas,2655,4,0,Retraso_Moderado
+19,Martes,1,Despejado,Calle 100,3267,4,0,Retraso_Critico
+18,Miércoles,1,Lluvia ligera,Héroes,2764,3,0,Retraso_Critico
+15,Miércoles,0,Lluvia ligera,Calle 100,934,8,0,Normal
+7,Miércoles,1,Lluvia ligera,Ricaurte,2309,3,0,Retraso_Moderado
+21,Viernes,0,Lluvia fuerte,Calle 100,1058,8,1,Retraso_Critico
+16,Martes,0,Despejado,Ricaurte,1308,8,0,Normal
+19,Viernes,1,Despejado,Ricaurte,2150,4,0,Retraso_Moderado
+20,Jueves,0,Despejado,Calle 100,1027,12,0,Retraso_Moderado
+9,Jueves,0,Despejado,Portal Américas,1241,10,0,Normal
+10,Viernes,0,Lluvia fuerte,Portal Américas,1436,12,0,Retraso_Moderado
+23,Jueves,0,Despejado,Portal Norte,1027,8,0,Normal
+9,Sábado,0,Despejado,Portal El Dorado,545,15,0,Normal
+7,Viernes,1,Despejado,Calle 100,3023,3,0,Retraso_Moderado
+5,Jueves,0,Despejado,Ricaurte,1218,10,0,Normal
+10,Sábado,0,Lluvia ligera,Portal Américas,1152,10,0,Normal
+19,Jueves,1,Despejado,Portal Américas,2167,6,0,Retraso_Moderado
+6,Martes,1,Lluvia fuerte,Portal Norte,3117,6,0,Retraso_Critico
+7,Martes,1,Despejado,Portal Américas,2574,4,1,Retraso_Critico
+21,Lunes,0,Despejado,Portal Américas,929,6,0,Normal
+16,Sábado,0,Lluvia fuerte,Portal El Dorado,564,8,0,Normal
+22,Viernes,0,Despejado,Banderas,1112,6,0,Normal
+19,Domingo,0,Lluvia fuerte,Ricaurte,1273,10,0,Retraso_Moderado
+16,Jueves,0,Lluvia fuerte,Portal Norte,1209,6,0,Retraso_Moderado
+20,Miércoles,0,Lluvia ligera,Calle 100,820,6,0,Normal
+12,Lunes,0,Lluvia ligera,Portal Norte,1324,6,0,Normal
+18,Viernes,1,Despejado,Portal Norte,3328,4,0,Retraso_Moderado
+21,Jueves,0,Lluvia fuerte,Portal Américas,1442,12,0,Retraso_Moderado
+12,Domingo,0,Despejado,Calle 100,1192,15,0,Normal
+19,Martes,1,Lluvia ligera,Calle 100,2656,4,0,Retraso_Moderado
+18,Jueves,1,Lluvia fuerte,Portal Norte,2429,4,0,Retraso_Moderado
+22,Viernes,0,Lluvia fuerte,Portal Norte,1506,10,0,Retraso_Moderado
+11,Viernes,0,Lluvia ligera,Portal Norte,1390,10,0,Normal
+7,Jueves,1,Despejado,Portal Norte,2835,5,0,Retraso_Moderado
+16,Viernes,0,Lluvia fuerte,Portal Américas,1097,8,1,Retraso_Critico
+7,Martes,1,Lluvia ligera,Portal Américas,2828,4,0,Retraso_Moderado
+18,Viernes,1,Lluvia fuerte,Portal Norte,2864,4,0,Retraso_Critico
+19,Jueves,1,Lluvia ligera,Portal Américas,2377,4,0,Retraso_Moderado
+18,Sábado,0,Despejado,Calle 100,1003,10,0,Normal
+11,Sábado,0,Despejado,Calle 100,1322,8,0,Normal
+21,Martes,0,Despejado,Portal Norte,1034,8,0,Normal
+16,Martes,0,Lluvia ligera,Portal Américas,1080,8,0,Normal
+8,Domingo,0,Despejado,Ricaurte,871,12,0,Normal
+13,Jueves,0,Despejado,Calle 100,1336,12,0,Retraso_Moderado
+10,Sábado,0,Despejado,Portal Norte,1135,10,0,Normal
+20,Martes,0,Lluvia ligera,Banderas,615,8,0,Normal
+6,Viernes,1,Despejado,Calle 100,2867,3,0,Retraso_Moderado
+12,Sábado,0,Despejado,Calle 100,1008,8,0,Normal
+15,Domingo,0,Despejado,Banderas,1285,6,0,Normal
+17,Miércoles,1,Despejado,Portal El Dorado,2706,3,0,Retraso_Moderado
+21,Viernes,0,Despejado,Portal Américas,1033,10,1,Retraso_Moderado
+12,Jueves,0,Despejado,Portal Américas,1693,10,0,Normal
+22,Lunes,0,Despejado,Calle 100,1384,15,0,Normal
+22,Viernes,0,Lluvia fuerte,Portal Norte,975,12,1,Retraso_Critico
+18,Viernes,1,Lluvia ligera,Ricaurte,2685,4,0,Retraso_Moderado
+19,Domingo,0,Despejado,Portal Norte,1318,6,0,Normal
+10,Jueves,0,Lluvia fuerte,Portal Américas,1210,6,0,Retraso_Moderado
+15,Martes,0,Despejado,Héroes,1122,10,0,Normal
+17,Lunes,1,Lluvia ligera,Héroes,2953,4,0,Retraso_Critico
+5,Miércoles,0,Lluvia ligera,Calle 100,1375,15,0,Normal
+10,Martes,0,Despejado,Ricaurte,340,10,0,Normal
+13,Viernes,0,Despejado,Portal Américas,1161,12,0,Normal
+12,Miércoles,0,Despejado,Banderas,745,10,0,Normal
+15,Domingo,0,Despejado,Calle 100,1086,12,0,Normal
+23,Domingo,0,Lluvia ligera,Portal Norte,1174,10,0,Retraso_Moderado
+13,Jueves,0,Despejado,Portal Norte,1484,10,0,Normal
+21,Domingo,0,Despejado,Calle 100,911,10,0,Normal
+16,Viernes,0,Despejado,Calle 100,652,10,0,Normal
+18,Jueves,1,Despejado,Portal El Dorado,2091,3,0,Retraso_Moderado
+19,Martes,1,Despejado,Ricaurte,2134,5,0,Retraso_Moderado
+20,Miércoles,0,Despejado,Calle 100,788,6,0,Normal
+5,Jueves,0,Lluvia ligera,Portal Américas,1057,8,0,Retraso_Moderado
+14,Sábado,0,Despejado,Portal Norte,1409,10,0,Normal
+12,Jueves,0,Despejado,Banderas,885,6,0,Normal
+22,Sábado,0,Lluvia ligera,Héroes,1182,8,0,Normal
+5,Viernes,0,Despejado,Héroes,391,8,0,Normal
+6,Lunes,1,Lluvia ligera,Banderas,3082,4,0,Retraso_Critico
+5,Domingo,0,Lluvia ligera,Portal Norte,1534,8,0,Retraso_Moderado
+5,Jueves,0,Despejado,Portal Norte,918,6,0,Normal
+13,Miércoles,0,Despejado,Ricaurte,1158,6,0,Normal
+17,Viernes,1,Despejado,Banderas,2094,4,0,Retraso_Moderado
+5,Lunes,0,Despejado,Portal Norte,1308,12,0,Normal
+17,Jueves,1,Despejado,Portal Norte,3280,4,0,Retraso_Critico
+11,Jueves,0,Despejado,Portal El Dorado,1007,10,0,Retraso_Moderado
+6,Miércoles,1,Despejado,Portal Norte,2685,5,0,Retraso_Moderado
+10,Domingo,0,Despejado,Portal Américas,1340,15,0,Normal
+11,Jueves,0,Lluvia ligera,Ricaurte,734,8,0,Normal
+18,Martes,1,Despejado,Calle 100,2918,3,0,Retraso_Moderado
